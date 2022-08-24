@@ -1,0 +1,11 @@
+framework module SalesmateChatSDK {
+  umbrella header "SalesmateChatSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module SalesmateChatSDK.Swift {
+    header "SalesmateChatSDK-Swift.h"
+    requires objc
+}

@@ -1,0 +1,76 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)
+// swift-module-flags: -target arm64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name SalesmateChatSDK
+import AudioToolbox
+import Foundation
+import MobileCoreServices
+import Network
+import PhotosUI
+import QuickLook
+@_exported import SalesmateChatSDK
+import Swift
+import UIKit
+import WebKit
+import _Concurrency
+@objc public enum Environment : Swift.Int {
+  case development
+  case staging
+  case production
+  public init?(rawValue: Swift.Int)
+  public typealias RawValue = Swift.Int
+  public var rawValue: Swift.Int {
+    get
+  }
+}
+@objc public class Configuration : ObjectiveC.NSObject {
+  @objc public init(workspaceID: Swift.String, appKey: Swift.String, tenantID: Swift.String, environment: SalesmateChatSDK.Environment)
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers @objc public class SalesmateChat : ObjectiveC.NSObject {
+  @objc public static func setSalesmateChat(configuration settings: SalesmateChatSDK.Configuration)
+  @objc public static func presentMessenger(from viewController: UIKit.UIViewController)
+  @objc public static func logEventWith(eventName: Swift.String, withData data: [Swift.AnyHashable : Any]? = nil)
+  @objc public static func setVerifiedID(_ ID: Swift.String)
+  @objc public static func loginWith(userId: Swift.String?, email: Swift.String?, firstName: Swift.String?, lastName: Swift.String?, completion: @escaping (Swift.String?, Swift.Error?) -> Swift.Void)
+  @objc public static func logout()
+  @objc public static func getVisitorId() -> Swift.String
+  @objc public static func update(userId: Swift.String?, email: Swift.String?, firstName: Swift.String?, lastName: Swift.String?, completion: @escaping (Swift.String?, Swift.Error?) -> Swift.Void)
+  @objc public static func sendDeviceToken(with deviceToken: Swift.String)
+  @objc public static func isSalesmateChatSDKPushNotification(userInfo: [Swift.AnyHashable : Any]) -> Swift.Bool
+  @objc public static func handlePushNotification(userInfo: [Swift.AnyHashable : Any])
+  @objc deinit
+}
+extension UIKit.UITableView {
+  @_Concurrency.MainActor(unsafe) public var indexPathForLastRow: Foundation.IndexPath? {
+    get
+  }
+  @_Concurrency.MainActor(unsafe) public var lastSection: Swift.Int? {
+    get
+  }
+  @_Concurrency.MainActor(unsafe) public func numberOfRows() -> Swift.Int
+  @_Concurrency.MainActor(unsafe) public func indexPathForLastRow(inSection section: Swift.Int) -> Foundation.IndexPath?
+  @_Concurrency.MainActor(unsafe) public func reloadData(_ completion: @escaping () -> Swift.Void)
+  @_Concurrency.MainActor(unsafe) public func removeTableFooterView()
+  @_Concurrency.MainActor(unsafe) public func removeTableHeaderView()
+  @_Concurrency.MainActor(unsafe) public func dequeueReusableCell<T>(withClass name: T.Type, for indexPath: Foundation.IndexPath) -> T where T : UIKit.UITableViewCell
+  @_Concurrency.MainActor(unsafe) public func register<T>(cellWithClass name: T.Type) where T : UIKit.UITableViewCell
+  @_Concurrency.MainActor(unsafe) public func register<T>(nibWithCellClass name: T.Type) where T : UIKit.UITableViewCell
+  @_Concurrency.MainActor(unsafe) public func isValidIndexPath(_ indexPath: Foundation.IndexPath) -> Swift.Bool
+  @_Concurrency.MainActor(unsafe) public func safeScrollToRow(at indexPath: Foundation.IndexPath, at scrollPosition: UIKit.UITableView.ScrollPosition, animated: Swift.Bool)
+}
+public enum DragDirection : Swift.Int {
+  case any
+  case horizontal
+  case vertical
+  public init?(rawValue: Swift.Int)
+  public typealias RawValue = Swift.Int
+  public var rawValue: Swift.Int {
+    get
+  }
+}
+extension SalesmateChatSDK.Environment : Swift.Equatable {}
+extension SalesmateChatSDK.Environment : Swift.Hashable {}
+extension SalesmateChatSDK.Environment : Swift.RawRepresentable {}
+extension SalesmateChatSDK.DragDirection : Swift.Equatable {}
+extension SalesmateChatSDK.DragDirection : Swift.Hashable {}
+extension SalesmateChatSDK.DragDirection : Swift.RawRepresentable {}
