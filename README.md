@@ -22,14 +22,22 @@ Add the SalesmateChatSDK pod into your Podfile and run `pod install`.
 ### Swift Package Manager
 Add `https://github.com/salesmate/salesmate-chat-ios` as a Swift Package Repository in Xcode and follow the instructions to add `SalesmateChatSDK` as a Swift Package.
 
+<img width="1407" alt="SPM" src="https://user-images.githubusercontent.com/71368703/186414265-ce0867fa-6633-4ca7-bba5-63f86ce10ad0.png">
+
 ### Manual Installation
 
 1. [Download SalesmateChatSDK for iOS](https://github.com/salesmate/salesmate-chat-ios/archive/refs/heads/master.zip) and extract the zip.
 2. Drag `SalesmateChatSDK.xcframework` into your project. 
 
+<img width="1004" alt="M1" src="https://user-images.githubusercontent.com/71368703/186413693-8fd814d2-c258-4a4b-9883-27d7b8de3521.png">
+
 Make sure "Copy items if needed" is selected and click Finish.
 
+![M2](https://user-images.githubusercontent.com/71368703/186414015-5a321e31-c15c-4ad1-b057-dd1570e9effd.jpg)
+
 3. In the target settings for your app, set the SalesmateChatSDK.xcframework to “Embed & Sign”. This can be found in the “Frameworks, Libraries, and Embedded Content” section of the “General” tab.
+
+![M3](https://user-images.githubusercontent.com/71368703/186414127-8401e95e-8516-4b3b-91ed-ef341e1cb242.jpg)
 
 ## Update Info.plist
 
