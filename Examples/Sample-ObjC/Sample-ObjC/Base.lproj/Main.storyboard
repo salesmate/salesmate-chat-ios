@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="19529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="2ly-Yu-8fG">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19519"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="Hen-9Z-1h5">
+            <objects>
+                <viewController id="2ly-Yu-8fG" customClass="ViewController" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="cH5-FX-wnr">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="logo" translatesAutoresizingMaskIntoConstraints="NO" id="faV-8Z-tqi">
+                                <rect key="frame" x="30" y="86" width="60" height="60"/>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="nnq-BD-biI">
+                                <rect key="frame" x="118" y="264" width="178" height="36"/>
+                                <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="20"/>
+                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                <state key="normal" title="Present Messenger">
+                                    <color key="titleColor" systemColor="systemBlueColor"/>
+                                </state>
+                                <connections>
+                                    <action selector="presentMessenger:" destination="2ly-Yu-8fG" eventType="touchUpInside" id="WuG-2H-XGc"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Hoi-ik-R32">
+                                <rect key="frame" x="181.5" y="330" width="51" height="36"/>
+                                <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="20"/>
+                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                <state key="normal" title="Login">
+                                    <color key="titleColor" systemColor="systemBlueColor"/>
+                                </state>
+                                <connections>
+                                    <action selector="loginPressed:" destination="2ly-Yu-8fG" eventType="touchUpInside" id="e9m-Us-YS9"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="I92-T6-Ike">
+                                <rect key="frame" x="162" y="396" width="90" height="36"/>
+                                <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="20"/>
+                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                <state key="normal" title="Log event">
+                                    <color key="titleColor" systemColor="systemBlueColor"/>
+                                </state>
+                                <connections>
+                                    <action selector="logEvent:" destination="2ly-Yu-8fG" eventType="touchUpInside" id="lwH-5v-dEn"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="1IH-Ev-ypB">
+                                <rect key="frame" x="172.5" y="462" width="69" height="36"/>
+                                <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="20"/>
+                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                <state key="normal" title="Log out">
+                                    <color key="titleColor" systemColor="systemBlueColor"/>
+                                </state>
+                                <connections>
+                                    <action selector="logout:" destination="2ly-Yu-8fG" eventType="touchUpInside" id="0GY-jC-d3U"/>
+                                </connections>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Salesmate Chat " textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="mT1-pK-cBQ">
+                                <rect key="frame" x="120" y="98" width="228" height="36"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="30"/>
+                                <color key="textColor" systemColor="systemBlueColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="A7e-Xe-sV7"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="1IH-Ev-ypB" firstAttribute="centerX" secondItem="cH5-FX-wnr" secondAttribute="centerX" id="D6X-HQ-B4A"/>
+                            <constraint firstItem="mT1-pK-cBQ" firstAttribute="leading" secondItem="faV-8Z-tqi" secondAttribute="trailing" constant="30" id="Gqs-Ae-JHy"/>
+                            <constraint firstItem="I92-T6-Ike" firstAttribute="top" secondItem="Hoi-ik-R32" secondAttribute="bottom" constant="30" id="KLC-qX-Q7Q"/>
+                            <constraint firstItem="Hoi-ik-R32" firstAttribute="centerX" secondItem="cH5-FX-wnr" secondAttribute="centerX" id="MdD-i1-HPA"/>
+                            <constraint firstItem="1IH-Ev-ypB" firstAttribute="top" secondItem="I92-T6-Ike" secondAttribute="bottom" constant="30" id="TtM-CW-oFF"/>
+                            <constraint firstItem="nnq-BD-biI" firstAttribute="top" secondItem="mT1-pK-cBQ" secondAttribute="bottom" constant="130" id="UvJ-Cp-bJo"/>
+                            <constraint firstItem="mT1-pK-cBQ" firstAttribute="centerY" secondItem="faV-8Z-tqi" secondAttribute="centerY" id="Y05-V2-ZuR"/>
+                            <constraint firstItem="faV-8Z-tqi" firstAttribute="top" secondItem="A7e-Xe-sV7" secondAttribute="top" constant="42" id="Y26-GW-UzU"/>
+                            <constraint firstItem="faV-8Z-tqi" firstAttribute="leading" secondItem="A7e-Xe-sV7" secondAttribute="leading" constant="30" id="bo7-lz-nK8"/>
+                            <constraint firstItem="I92-T6-Ike" firstAttribute="centerX" secondItem="cH5-FX-wnr" secondAttribute="centerX" id="clG-Wv-bpM"/>
+                            <constraint firstItem="nnq-BD-biI" firstAttribute="centerX" secondItem="cH5-FX-wnr" secondAttribute="centerX" id="ej7-Yr-CCc"/>
+                            <constraint firstItem="Hoi-ik-R32" firstAttribute="top" secondItem="nnq-BD-biI" secondAttribute="bottom" constant="30" id="ewT-BA-WO2"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="ifC-LH-weO" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="106" y="98"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="logo" width="60" height="60"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+        <systemColor name="systemBlueColor">
+            <color red="0.0" green="0.47843137254901963" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+    </resources>
+</document>
