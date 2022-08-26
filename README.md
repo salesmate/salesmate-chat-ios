@@ -7,7 +7,7 @@
 
 ## Installation
 
-SalesmateChatSDK for iOS supports iOS 13+. 
+SalesmateChatSDK for iOS supports iOS 13 or later. 
 Xcode 13 is required to build SalesmateChatSDK iOS.
 
 ### CocoaPods
@@ -48,19 +48,19 @@ With the exception of apps that _only_ support iOS 14+, when installing Salesmat
 For apps that support iOS 13, this is [required by Apple](https://developer.apple.com/library/content/qa/qa1937/_index.html) to access the photo library. It is necessary when installing SalesmateChatSDK due to the image upload functionality. Users will be prompted for the photo library permission only when they tap the image upload button.
 
 ## Example app
-There are example apps provided [here](https://github.com/salesmate/salesmate-chat-ios/tree/master/Examples) for Objective-C and Swift, as well as an example built with SwiftUI.
+There are example apps provided [here](https://github.com/salesmate/salesmate-chat-ios/tree/master/Examples) for Objective-C and Swift.
 
 ## Setup and Configuration
 
 * Our [installation guide](https://support.salesmate.io/hc/en-us/categories/360005786852-Chats) contains full setup and initialisation instructions.
 * Read ["Configuring SalesmateChatSDK for iOS"](https://support.salesmate.io/hc/en-us/categories/360005786852-Chats).
 * Read our guide on [Push Notifications](https://support.salesmate.io/hc/en-us/categories/360005786852-Chats).
-*  Please contact us on [SalesmateChatSDK](https://support.salesmate.io/hc/en-us/categories/360005786852-Chats) with any questions you may have, we're only a message away!
+*  Please contact us on [Salesmate](https://support.salesmate.io/hc/en-us/categories/360005786852-Chats) with any questions you may have, we're only a message away!
 
 ## Customer Support
 
-👋  Contact us with any issues at our [SalesmateChatSDK Developer Hub available here](https://support.salesmate.io/hc/en-us/categories/360005786852-Chats). If you bump into any problems or need more support, just start a conversation using SalesmateChatSDK there and it will be immediately routed to our Customer Support Engineers.
+👋  Contact us with any issues at our [Salesmate available here](https://support.salesmate.io/hc/en-us/categories/360005786852-Chats). If you bump into any problems or need more support, just start a conversation using SalesmateChatSDK there and it will be immediately routed to our Customer Support Engineers.
 
-## What about events, push notifications, company and user data?
+## What about events, push notifications and user data?
 
 SalesmateChatSDK for iOS has support for all these things. For full details please read our [documentation](https://support.salesmate.io/hc/en-us/categories/360005786852-Chats).
