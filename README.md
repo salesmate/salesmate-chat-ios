@@ -3,7 +3,24 @@
 [![CocoaPods](https://img.shields.io/cocoapods/v/SalesmateChatSDK.svg?maxAge=2592000)](https://cocoapods.org/pods/SalesmateChatSDK)
 [![Apache License](http://img.shields.io/badge/license-APACHE2-blue.svg?style=flat)](https://www.apache.org/licenses/LICENSE-2.0.html)
 
+
+
 # salesmate-chat-ios
+
+The Salesmate Chat Android SDK enables you to use Salesmate Messenger in your app, have conversations with your customers, and track events.
+
+<img width="903" alt="Chat SDK@2x" src="https://user-images.githubusercontent.com/11227333/188421700-ac0da285-5ee1-4118-88f4-0035a3bbd088.png">
+
+Add a chat widget to your app, and:
+
+* Start talking to your visitors in minutes.
+* Engage your customers during their buying process and help them make a purchase.
+* Resolve your customer support queries quickly to increase customer satisfaction. 
+
+Salesmate Chats is an add-on and its pricing is based on the number of user seats you wish to add for users who will be managing chat communication. 
+
+You need to be an admin to install the Chats. 
+Learn about installing the Chats.
 
 ## Installation
 
