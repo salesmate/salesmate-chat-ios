@@ -7,7 +7,7 @@
 
 # salesmate-chat-ios
 
-The Salesmate Chat Android SDK enables you to use Salesmate Messenger in your app, have conversations with your customers, and track events.
+The Salesmate Chat iOS SDK enables you to use Salesmate Messenger in your app, have conversations with your customers, and track events.
 
 <img width="903" alt="Chat SDK@2x" src="https://user-images.githubusercontent.com/11227333/188421700-ac0da285-5ee1-4118-88f4-0035a3bbd088.png">
 
