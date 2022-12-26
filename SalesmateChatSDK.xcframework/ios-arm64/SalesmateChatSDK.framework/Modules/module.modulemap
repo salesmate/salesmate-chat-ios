@@ -6,6 +6,6 @@ framework module SalesmateChatSDK {
 }
 
 module SalesmateChatSDK.Swift {
-    header "SalesmateChatSDK-Swift.h"
-    requires objc
+  header "SalesmateChatSDK-Swift.h"
+  requires objc
 }
