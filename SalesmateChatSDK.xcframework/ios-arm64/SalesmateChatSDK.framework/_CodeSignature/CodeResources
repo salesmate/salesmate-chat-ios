@@ -30,7 +30,7 @@
 		</data>
 		<key>Chat.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
 		<data>
-		s/VKCDpGl01AOeOP/T+knDh0Xno=
+		4W1Rt70NFDM0SfOUyKWqV4mkCIg=
 		</data>
 		<key>ContactDetailForm.nib</key>
 		<data>
@@ -82,11 +82,11 @@
 		</data>
 		<key>Home.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
 		<data>
-		l33zTCi/EXTrREYa64HkzkX9OZ8=
+		nrv2r9VYycGFvMv/SuzqAJD3oCg=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		xa3zDIYtG4OEAtkb2bBbKCa4uUo=
+		rpiLnmAw4p5KG0K84ux/vzF250I=
 		</data>
 		<key>LICENSE.md</key>
 		<data>
@@ -94,7 +94,7 @@
 		</data>
 		<key>Modules/SalesmateChatSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		AdQ+cULxlVkfSNhPYeBkTqj5BjY=
+		J4RB+WHstJICFS1TZdXMHUSvWn0=
 		</data>
 		<key>Modules/SalesmateChatSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -297,7 +297,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NoBHDcBXo2Y0z1UX99zHt1lNz+0Ac1swY+OdjQF/vGM=
+			K0IUseCe5ouAl1rAF9A5TNPfpiQpJxuGj2LSMBv9TAU=
 			</data>
 		</dict>
 		<key>ContactDetailForm.nib</key>
@@ -388,7 +388,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			icJm61H6Uot2VHZDDwOYAqSeN+F73Z6U8lA9gLSczhU=
+			19CMmlEHHjFAW9KoiHrxl0CELK/mk0VeTXu3ht8xNl8=
 			</data>
 		</dict>
 		<key>LICENSE.md</key>
@@ -402,7 +402,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xbqd7C//a6yR9A9V+OMxbaY0PGiwGzBETpG7GA6tNGI=
+			TPVz5aTGDlCBfuLRqBef8RTjihW6oGTEI0APzzvRCY8=
 			</data>
 		</dict>
 		<key>Modules/SalesmateChatSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
