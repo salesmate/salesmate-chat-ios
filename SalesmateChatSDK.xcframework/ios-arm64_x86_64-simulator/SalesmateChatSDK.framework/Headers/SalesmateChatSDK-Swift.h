@@ -230,8 +230,10 @@ using UInt = size_t;
 #if __has_warning("-Watimport-in-framework-header")
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
+@import CoreFoundation;
 @import Foundation;
 @import ObjectiveC;
+@import UIKit;
 #endif
 
 #endif
@@ -271,6 +273,27 @@ typedef SWIFT_ENUM(NSInteger, Environment, open) {
 };
 
 
+
+@class UIImage;
+@class NSCoder;
+
+SWIFT_CLASS("_TtC16SalesmateChatSDK21SDKMTProfileImageView")
+@interface SDKMTProfileImageView : UIImageView
+@property (nonatomic, copy) IBInspectable NSString * _Nullable fullName;
+@property (nonatomic, copy) IBInspectable NSString * _Nullable firstName;
+@property (nonatomic, copy) IBInspectable NSString * _Nullable lastName;
+@property (nonatomic) IBInspectable BOOL keepSameColorAlwaysForSameName;
+@property (nonatomic, copy) IBInspectable NSString * _Nullable profileImageURLStr;
+@property (nonatomic, copy) IBInspectable NSArray<NSString *> * _Nullable colorCodesArray;
+@property (nonatomic) IBInspectable BOOL isRounded;
+@property (nonatomic, strong) UIImage * _Nullable image;
+- (void)awakeFromNib;
+- (void)layoutSubviews;
+- (nonnull instancetype)initWithImage:(UIImage * _Nullable)image OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)initWithImage:(UIImage * _Nullable)image highlightedImage:(UIImage * _Nullable)highlightedImage OBJC_DESIGNATED_INITIALIZER SWIFT_AVAILABILITY(ios,introduced=3.0);
+- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
 
 @class UIViewController;
 
@@ -543,8 +566,10 @@ using UInt = size_t;
 #if __has_warning("-Watimport-in-framework-header")
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
+@import CoreFoundation;
 @import Foundation;
 @import ObjectiveC;
+@import UIKit;
 #endif
 
 #endif
@@ -584,6 +609,27 @@ typedef SWIFT_ENUM(NSInteger, Environment, open) {
 };
 
 
+
+@class UIImage;
+@class NSCoder;
+
+SWIFT_CLASS("_TtC16SalesmateChatSDK21SDKMTProfileImageView")
+@interface SDKMTProfileImageView : UIImageView
+@property (nonatomic, copy) IBInspectable NSString * _Nullable fullName;
+@property (nonatomic, copy) IBInspectable NSString * _Nullable firstName;
+@property (nonatomic, copy) IBInspectable NSString * _Nullable lastName;
+@property (nonatomic) IBInspectable BOOL keepSameColorAlwaysForSameName;
+@property (nonatomic, copy) IBInspectable NSString * _Nullable profileImageURLStr;
+@property (nonatomic, copy) IBInspectable NSArray<NSString *> * _Nullable colorCodesArray;
+@property (nonatomic) IBInspectable BOOL isRounded;
+@property (nonatomic, strong) UIImage * _Nullable image;
+- (void)awakeFromNib;
+- (void)layoutSubviews;
+- (nonnull instancetype)initWithImage:(UIImage * _Nullable)image OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)initWithImage:(UIImage * _Nullable)image highlightedImage:(UIImage * _Nullable)highlightedImage OBJC_DESIGNATED_INITIALIZER SWIFT_AVAILABILITY(ios,introduced=3.0);
+- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
 
 @class UIViewController;
 

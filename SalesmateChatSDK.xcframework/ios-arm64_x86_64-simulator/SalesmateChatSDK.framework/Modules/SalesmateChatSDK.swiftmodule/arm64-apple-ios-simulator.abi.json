@@ -59,6 +59,1370 @@
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
+        "moduleName": "SalesmateChatSDK"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "SDKMTProfileImageView",
+        "printedName": "SDKMTProfileImageView",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "fullName",
+            "printedName": "fullName",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@SalesmateChatSDK@objc(cs)SDKMTProfileImageView(py)fullName",
+            "mangledName": "$s16SalesmateChatSDK21SDKMTProfileImageViewC8fullNameSSSgvp",
+            "moduleName": "SalesmateChatSDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "Custom",
+              "HasStorage",
+              "AccessControl",
+              "IBInspectable",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@SalesmateChatSDK@objc(cs)SDKMTProfileImageView(im)fullName",
+                "mangledName": "$s16SalesmateChatSDK21SDKMTProfileImageViewC8fullNameSSSgvg",
+                "moduleName": "SalesmateChatSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@SalesmateChatSDK@objc(cs)SDKMTProfileImageView(im)setFullName:",
+                "mangledName": "$s16SalesmateChatSDK21SDKMTProfileImageViewC8fullNameSSSgvs",
+                "moduleName": "SalesmateChatSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:16SalesmateChatSDK21SDKMTProfileImageViewC8fullNameSSSgvM",
+                "mangledName": "$s16SalesmateChatSDK21SDKMTProfileImageViewC8fullNameSSSgvM",
+                "moduleName": "SalesmateChatSDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "firstName",
+            "printedName": "firstName",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@SalesmateChatSDK@objc(cs)SDKMTProfileImageView(py)firstName",
+            "mangledName": "$s16SalesmateChatSDK21SDKMTProfileImageViewC9firstNameSSSgvp",
+            "moduleName": "SalesmateChatSDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "Custom",
+              "HasStorage",
+              "AccessControl",
+              "IBInspectable",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@SalesmateChatSDK@objc(cs)SDKMTProfileImageView(im)firstName",
+                "mangledName": "$s16SalesmateChatSDK21SDKMTProfileImageViewC9firstNameSSSgvg",
+                "moduleName": "SalesmateChatSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@SalesmateChatSDK@objc(cs)SDKMTProfileImageView(im)setFirstName:",
+                "mangledName": "$s16SalesmateChatSDK21SDKMTProfileImageViewC9firstNameSSSgvs",
+                "moduleName": "SalesmateChatSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:16SalesmateChatSDK21SDKMTProfileImageViewC9firstNameSSSgvM",
+                "mangledName": "$s16SalesmateChatSDK21SDKMTProfileImageViewC9firstNameSSSgvM",
+                "moduleName": "SalesmateChatSDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "lastName",
+            "printedName": "lastName",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@SalesmateChatSDK@objc(cs)SDKMTProfileImageView(py)lastName",
+            "mangledName": "$s16SalesmateChatSDK21SDKMTProfileImageViewC8lastNameSSSgvp",
+            "moduleName": "SalesmateChatSDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "Custom",
+              "HasStorage",
+              "AccessControl",
+              "IBInspectable",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@SalesmateChatSDK@objc(cs)SDKMTProfileImageView(im)lastName",
+                "mangledName": "$s16SalesmateChatSDK21SDKMTProfileImageViewC8lastNameSSSgvg",
+                "moduleName": "SalesmateChatSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@SalesmateChatSDK@objc(cs)SDKMTProfileImageView(im)setLastName:",
+                "mangledName": "$s16SalesmateChatSDK21SDKMTProfileImageViewC8lastNameSSSgvs",
+                "moduleName": "SalesmateChatSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:16SalesmateChatSDK21SDKMTProfileImageViewC8lastNameSSSgvM",
+                "mangledName": "$s16SalesmateChatSDK21SDKMTProfileImageViewC8lastNameSSSgvM",
+                "moduleName": "SalesmateChatSDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "keepSameColorAlwaysForSameName",
+            "printedName": "keepSameColorAlwaysForSameName",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@SalesmateChatSDK@objc(cs)SDKMTProfileImageView(py)keepSameColorAlwaysForSameName",
+            "mangledName": "$s16SalesmateChatSDK21SDKMTProfileImageViewC022keepSameColorAlwaysForH4NameSbvp",
+            "moduleName": "SalesmateChatSDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "Custom",
+              "HasStorage",
+              "AccessControl",
+              "IBInspectable",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@SalesmateChatSDK@objc(cs)SDKMTProfileImageView(im)keepSameColorAlwaysForSameName",
+                "mangledName": "$s16SalesmateChatSDK21SDKMTProfileImageViewC022keepSameColorAlwaysForH4NameSbvg",
+                "moduleName": "SalesmateChatSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@SalesmateChatSDK@objc(cs)SDKMTProfileImageView(im)setKeepSameColorAlwaysForSameName:",
+                "mangledName": "$s16SalesmateChatSDK21SDKMTProfileImageViewC022keepSameColorAlwaysForH4NameSbvs",
+                "moduleName": "SalesmateChatSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:16SalesmateChatSDK21SDKMTProfileImageViewC022keepSameColorAlwaysForH4NameSbvM",
+                "mangledName": "$s16SalesmateChatSDK21SDKMTProfileImageViewC022keepSameColorAlwaysForH4NameSbvM",
+                "moduleName": "SalesmateChatSDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "profileImageURLStr",
+            "printedName": "profileImageURLStr",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@SalesmateChatSDK@objc(cs)SDKMTProfileImageView(py)profileImageURLStr",
+            "mangledName": "$s16SalesmateChatSDK21SDKMTProfileImageViewC07profileE6URLStrSSSgvp",
+            "moduleName": "SalesmateChatSDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "Custom",
+              "HasStorage",
+              "AccessControl",
+              "IBInspectable",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@SalesmateChatSDK@objc(cs)SDKMTProfileImageView(im)profileImageURLStr",
+                "mangledName": "$s16SalesmateChatSDK21SDKMTProfileImageViewC07profileE6URLStrSSSgvg",
+                "moduleName": "SalesmateChatSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@SalesmateChatSDK@objc(cs)SDKMTProfileImageView(im)setProfileImageURLStr:",
+                "mangledName": "$s16SalesmateChatSDK21SDKMTProfileImageViewC07profileE6URLStrSSSgvs",
+                "moduleName": "SalesmateChatSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:16SalesmateChatSDK21SDKMTProfileImageViewC07profileE6URLStrSSSgvM",
+                "mangledName": "$s16SalesmateChatSDK21SDKMTProfileImageViewC07profileE6URLStrSSSgvM",
+                "moduleName": "SalesmateChatSDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "colorCodesArray",
+            "printedName": "colorCodesArray",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "[Swift.String]?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[Swift.String]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@SalesmateChatSDK@objc(cs)SDKMTProfileImageView(py)colorCodesArray",
+            "mangledName": "$s16SalesmateChatSDK21SDKMTProfileImageViewC15colorCodesArraySaySSGSgvp",
+            "moduleName": "SalesmateChatSDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "Custom",
+              "HasStorage",
+              "AccessControl",
+              "IBInspectable",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "[Swift.String]?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Array",
+                        "printedName": "[Swift.String]",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "String",
+                            "printedName": "Swift.String",
+                            "usr": "s:SS"
+                          }
+                        ],
+                        "usr": "s:Sa"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@SalesmateChatSDK@objc(cs)SDKMTProfileImageView(im)colorCodesArray",
+                "mangledName": "$s16SalesmateChatSDK21SDKMTProfileImageViewC15colorCodesArraySaySSGSgvg",
+                "moduleName": "SalesmateChatSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "[Swift.String]?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Array",
+                        "printedName": "[Swift.String]",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "String",
+                            "printedName": "Swift.String",
+                            "usr": "s:SS"
+                          }
+                        ],
+                        "usr": "s:Sa"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@SalesmateChatSDK@objc(cs)SDKMTProfileImageView(im)setColorCodesArray:",
+                "mangledName": "$s16SalesmateChatSDK21SDKMTProfileImageViewC15colorCodesArraySaySSGSgvs",
+                "moduleName": "SalesmateChatSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:16SalesmateChatSDK21SDKMTProfileImageViewC15colorCodesArraySaySSGSgvM",
+                "mangledName": "$s16SalesmateChatSDK21SDKMTProfileImageViewC15colorCodesArraySaySSGSgvM",
+                "moduleName": "SalesmateChatSDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "isRounded",
+            "printedName": "isRounded",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@SalesmateChatSDK@objc(cs)SDKMTProfileImageView(py)isRounded",
+            "mangledName": "$s16SalesmateChatSDK21SDKMTProfileImageViewC9isRoundedSbvp",
+            "moduleName": "SalesmateChatSDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "Custom",
+              "HasStorage",
+              "AccessControl",
+              "IBInspectable",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@SalesmateChatSDK@objc(cs)SDKMTProfileImageView(im)isRounded",
+                "mangledName": "$s16SalesmateChatSDK21SDKMTProfileImageViewC9isRoundedSbvg",
+                "moduleName": "SalesmateChatSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@SalesmateChatSDK@objc(cs)SDKMTProfileImageView(im)setIsRounded:",
+                "mangledName": "$s16SalesmateChatSDK21SDKMTProfileImageViewC9isRoundedSbvs",
+                "moduleName": "SalesmateChatSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:16SalesmateChatSDK21SDKMTProfileImageViewC9isRoundedSbvM",
+                "mangledName": "$s16SalesmateChatSDK21SDKMTProfileImageViewC9isRoundedSbvM",
+                "moduleName": "SalesmateChatSDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "shortNameLabel",
+            "printedName": "shortNameLabel",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UILabel?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UILabel",
+                    "printedName": "UIKit.UILabel",
+                    "usr": "c:objc(cs)UILabel"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:16SalesmateChatSDK21SDKMTProfileImageViewC14shortNameLabelSo7UILabelCSgvp",
+            "mangledName": "$s16SalesmateChatSDK21SDKMTProfileImageViewC14shortNameLabelSo7UILabelCSgvp",
+            "moduleName": "SalesmateChatSDK",
+            "declAttributes": [
+              "Custom",
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UILabel?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UILabel",
+                        "printedName": "UIKit.UILabel",
+                        "usr": "c:objc(cs)UILabel"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:16SalesmateChatSDK21SDKMTProfileImageViewC14shortNameLabelSo7UILabelCSgvg",
+                "mangledName": "$s16SalesmateChatSDK21SDKMTProfileImageViewC14shortNameLabelSo7UILabelCSgvg",
+                "moduleName": "SalesmateChatSDK",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UILabel?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UILabel",
+                        "printedName": "UIKit.UILabel",
+                        "usr": "c:objc(cs)UILabel"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:16SalesmateChatSDK21SDKMTProfileImageViewC14shortNameLabelSo7UILabelCSgvs",
+                "mangledName": "$s16SalesmateChatSDK21SDKMTProfileImageViewC14shortNameLabelSo7UILabelCSgvs",
+                "moduleName": "SalesmateChatSDK",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:16SalesmateChatSDK21SDKMTProfileImageViewC14shortNameLabelSo7UILabelCSgvM",
+                "mangledName": "$s16SalesmateChatSDK21SDKMTProfileImageViewC14shortNameLabelSo7UILabelCSgvM",
+                "moduleName": "SalesmateChatSDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "image",
+            "printedName": "image",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIImage?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIImage",
+                    "printedName": "UIKit.UIImage",
+                    "usr": "c:objc(cs)UIImage"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@SalesmateChatSDK@objc(cs)SDKMTProfileImageView(py)image",
+            "mangledName": "$s16SalesmateChatSDK21SDKMTProfileImageViewC5imageSo7UIImageCSgvp",
+            "moduleName": "SalesmateChatSDK",
+            "overriding": true,
+            "objc_name": "image",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override",
+              "AccessControl"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIImage?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIImage",
+                        "printedName": "UIKit.UIImage",
+                        "usr": "c:objc(cs)UIImage"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@SalesmateChatSDK@objc(cs)SDKMTProfileImageView(im)image",
+                "mangledName": "$s16SalesmateChatSDK21SDKMTProfileImageViewC5imageSo7UIImageCSgvg",
+                "moduleName": "SalesmateChatSDK",
+                "overriding": true,
+                "implicit": true,
+                "objc_name": "image",
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIImage?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIImage",
+                        "printedName": "UIKit.UIImage",
+                        "usr": "c:objc(cs)UIImage"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@SalesmateChatSDK@objc(cs)SDKMTProfileImageView(im)setImage:",
+                "mangledName": "$s16SalesmateChatSDK21SDKMTProfileImageViewC5imageSo7UIImageCSgvs",
+                "moduleName": "SalesmateChatSDK",
+                "overriding": true,
+                "implicit": true,
+                "objc_name": "setImage:",
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "awakeFromNib",
+            "printedName": "awakeFromNib()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@SalesmateChatSDK@objc(cs)SDKMTProfileImageView(im)awakeFromNib",
+            "mangledName": "$s16SalesmateChatSDK21SDKMTProfileImageViewC12awakeFromNibyyF",
+            "moduleName": "SalesmateChatSDK",
+            "overriding": true,
+            "objc_name": "awakeFromNib",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "AccessControl",
+              "Override"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "layoutSubviews",
+            "printedName": "layoutSubviews()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@SalesmateChatSDK@objc(cs)SDKMTProfileImageView(im)layoutSubviews",
+            "mangledName": "$s16SalesmateChatSDK21SDKMTProfileImageViewC14layoutSubviewsyyF",
+            "moduleName": "SalesmateChatSDK",
+            "overriding": true,
+            "objc_name": "layoutSubviews",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "AccessControl",
+              "Override"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(image:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "SDKMTProfileImageView",
+                "printedName": "SalesmateChatSDK.SDKMTProfileImageView",
+                "usr": "c:@M@SalesmateChatSDK@objc(cs)SDKMTProfileImageView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIImage?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIImage",
+                    "printedName": "UIKit.UIImage",
+                    "usr": "c:objc(cs)UIImage"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@SalesmateChatSDK@objc(cs)SDKMTProfileImageView(im)initWithImage:",
+            "mangledName": "$s16SalesmateChatSDK21SDKMTProfileImageViewC5imageACSo7UIImageCSg_tcfc",
+            "moduleName": "SalesmateChatSDK",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithImage:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(image:highlightedImage:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "SDKMTProfileImageView",
+                "printedName": "SalesmateChatSDK.SDKMTProfileImageView",
+                "usr": "c:@M@SalesmateChatSDK@objc(cs)SDKMTProfileImageView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIImage?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIImage",
+                    "printedName": "UIKit.UIImage",
+                    "usr": "c:objc(cs)UIImage"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIImage?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIImage",
+                    "printedName": "UIKit.UIImage",
+                    "usr": "c:objc(cs)UIImage"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@SalesmateChatSDK@objc(cs)SDKMTProfileImageView(im)initWithImage:highlightedImage:",
+            "mangledName": "$s16SalesmateChatSDK21SDKMTProfileImageViewC5image011highlightedE0ACSo7UIImageCSg_AHtcfc",
+            "moduleName": "SalesmateChatSDK",
+            "overriding": true,
+            "implicit": true,
+            "intro_iOS": "3.0",
+            "objc_name": "initWithImage:highlightedImage:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override",
+              "Available"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(frame:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "SDKMTProfileImageView",
+                "printedName": "SalesmateChatSDK.SDKMTProfileImageView",
+                "usr": "c:@M@SalesmateChatSDK@objc(cs)SDKMTProfileImageView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGRect",
+                "printedName": "CoreFoundation.CGRect",
+                "usr": "c:@S@CGRect"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@SalesmateChatSDK@objc(cs)SDKMTProfileImageView(im)initWithFrame:",
+            "mangledName": "$s16SalesmateChatSDK21SDKMTProfileImageViewC5frameACSo6CGRectV_tcfc",
+            "moduleName": "SalesmateChatSDK",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithFrame:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "SalesmateChatSDK.SDKMTProfileImageView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SDKMTProfileImageView",
+                    "printedName": "SalesmateChatSDK.SDKMTProfileImageView",
+                    "usr": "c:@M@SalesmateChatSDK@objc(cs)SDKMTProfileImageView"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@SalesmateChatSDK@objc(cs)SDKMTProfileImageView(im)initWithCoder:",
+            "mangledName": "$s16SalesmateChatSDK21SDKMTProfileImageViewC5coderACSgSo7NSCoderC_tcfc",
+            "moduleName": "SalesmateChatSDK",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Required"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@SalesmateChatSDK@objc(cs)SDKMTProfileImageView",
+        "mangledName": "$s16SalesmateChatSDK21SDKMTProfileImageViewC",
+        "moduleName": "SalesmateChatSDK",
+        "declAttributes": [
+          "Custom",
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UIImageView",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIImageView",
+          "UIKit.UIView",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "__DefaultCustomPlaygroundQuickLookable",
+            "printedName": "__DefaultCustomPlaygroundQuickLookable",
+            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
+            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Nuke_ImageDisplaying",
+            "printedName": "Nuke_ImageDisplaying",
+            "usr": "c:@M@Nuke@objc(pl)Nuke_ImageDisplaying",
+            "mangledName": "$s4Nuke0A16_ImageDisplayingP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SalesmateChatSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
         "moduleName": "SalesmateChatSDK",
         "declAttributes": [
           "RawDocComment"
@@ -2712,14 +4076,21 @@
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIRequests.swift",
       "kind": "StringLiteral",
-      "offset": 5533,
+      "offset": 143,
+      "length": 7,
+      "value": "\"1.0.4\""
+    },
+    {
+      "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIRequests.swift",
+      "kind": "StringLiteral",
+      "offset": 5583,
       "length": 13,
       "value": "\"make_public\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIRequests.swift",
       "kind": "StringLiteral",
-      "offset": 5555,
+      "offset": 5605,
       "length": 6,
       "value": "\"true\""
     },
@@ -2764,6 +4135,97 @@
       "offset": 2321,
       "length": 2,
       "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SDKMTProfileImageView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 340,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SDKMTProfileImageView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 528,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SDKMTProfileImageView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 715,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SDKMTProfileImageView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 928,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SDKMTProfileImageView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 825,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SDKMTProfileImageView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1117,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SDKMTProfileImageView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1299,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SDKMTProfileImageView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1453,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SDKMTProfileImageView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1388,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SDKMTProfileImageView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1704,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SDKMTProfileImageView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1830,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SDKMTProfileImageView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7730,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SDKMTProfileImageView.swift",
+      "kind": "Array",
+      "offset": 7772,
+      "length": 243,
+      "value": "[\"255,86,34\", \"128,87,255\", \"77,136,255\", \"255,65,105\", \"103,58,183\", \"3,169,244\", \"38,197,218\", \"0,172,124\", \"192,202,51\", \"255,178,1\", \"0,204,136\"]"
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/WebSocketEventCreation.swift",
@@ -2816,365 +4278,358 @@
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
-      "kind": "StringLiteral",
-      "offset": 1277,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "BooleanLiteral",
-      "offset": 5588,
+      "offset": 5584,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
-      "offset": 5951,
+      "offset": 5947,
       "length": 11,
       "value": "\"userAgent\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
-      "offset": 5978,
+      "offset": 5974,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
-      "offset": 9990,
+      "offset": 9986,
       "length": 12,
       "value": "\"reply_time\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
-      "offset": 10053,
+      "offset": 10049,
       "length": 41,
       "value": "\"calculate_response_time_in_office_hours\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
-      "offset": 10122,
+      "offset": 10118,
       "length": 14,
       "value": "\"office_hours\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
-      "offset": 9990,
+      "offset": 9986,
       "length": 12,
       "value": "\"reply_time\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
-      "offset": 10053,
+      "offset": 10049,
       "length": 41,
       "value": "\"calculate_response_time_in_office_hours\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
-      "offset": 10122,
+      "offset": 10118,
       "length": 14,
       "value": "\"office_hours\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
-      "offset": 10514,
+      "offset": 10510,
       "length": 18,
       "value": "\"background_color\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
-      "offset": 10560,
+      "offset": 10556,
       "length": 14,
       "value": "\"action_color\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
-      "offset": 10610,
+      "offset": 10606,
       "length": 22,
       "value": "\"messenger_background\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
-      "offset": 10656,
+      "offset": 10652,
       "length": 10,
       "value": "\"logo_url\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
-      "offset": 10696,
+      "offset": 10692,
       "length": 17,
       "value": "\"show_powered_by\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
-      "offset": 10514,
+      "offset": 10510,
       "length": 18,
       "value": "\"background_color\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
-      "offset": 10560,
+      "offset": 10556,
       "length": 14,
       "value": "\"action_color\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
-      "offset": 10610,
+      "offset": 10606,
       "length": 22,
       "value": "\"messenger_background\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
-      "offset": 10656,
+      "offset": 10652,
       "length": 10,
       "value": "\"logo_url\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
-      "offset": 10696,
+      "offset": 10692,
       "length": 17,
       "value": "\"show_powered_by\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
-      "offset": 10832,
+      "offset": 10828,
       "length": 10,
       "value": "\"language\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
-      "offset": 10874,
+      "offset": 10870,
       "length": 18,
       "value": "\"greeting_message\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
-      "offset": 10918,
+      "offset": 10914,
       "length": 12,
       "value": "\"team_intro\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
-      "offset": 10956,
+      "offset": 10952,
       "length": 12,
       "value": "\"is_default\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
-      "offset": 10832,
+      "offset": 10828,
       "length": 10,
       "value": "\"language\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
-      "offset": 10874,
+      "offset": 10870,
       "length": 18,
       "value": "\"greeting_message\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
-      "offset": 10918,
+      "offset": 10914,
       "length": 12,
       "value": "\"team_intro\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
-      "offset": 10956,
+      "offset": 10952,
       "length": 12,
       "value": "\"is_default\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
-      "offset": 11083,
+      "offset": 11079,
       "length": 4,
       "value": "\"id\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
-      "offset": 11112,
+      "offset": 11108,
       "length": 10,
       "value": "\"linkname\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
-      "offset": 11143,
+      "offset": 11139,
       "length": 6,
       "value": "\"name\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
-      "offset": 11186,
+      "offset": 11182,
       "length": 13,
       "value": "\"description\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
-      "offset": 11083,
+      "offset": 11079,
       "length": 4,
       "value": "\"id\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
-      "offset": 11112,
+      "offset": 11108,
       "length": 10,
       "value": "\"linkname\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
-      "offset": 11143,
+      "offset": 11139,
       "length": 6,
       "value": "\"name\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
-      "offset": 11186,
+      "offset": 11182,
       "length": 13,
       "value": "\"description\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
-      "offset": 11479,
+      "offset": 11475,
       "length": 23,
       "value": "\"can_upload_attachment\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
-      "offset": 11479,
+      "offset": 11475,
       "length": 23,
       "value": "\"can_upload_attachment\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
-      "offset": 11649,
+      "offset": 11645,
       "length": 53,
       "value": "\"prevent_replies_to_close_conversations_for_contacts\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
-      "offset": 11744,
+      "offset": 11740,
       "length": 53,
       "value": "\"prevent_replies_to_close_conversations_for_visitors\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
-      "offset": 11845,
+      "offset": 11841,
       "length": 75,
       "value": "\"prevent_replies_to_close_conversations_within_number_of_days_for_contacts\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
-      "offset": 11968,
+      "offset": 11964,
       "length": 75,
       "value": "\"prevent_replies_to_close_conversations_within_number_of_days_for_visitors\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
-      "offset": 11649,
+      "offset": 11645,
       "length": 53,
       "value": "\"prevent_replies_to_close_conversations_for_contacts\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
-      "offset": 11744,
+      "offset": 11740,
       "length": 53,
       "value": "\"prevent_replies_to_close_conversations_for_visitors\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
-      "offset": 11845,
+      "offset": 11841,
       "length": 75,
       "value": "\"prevent_replies_to_close_conversations_within_number_of_days_for_contacts\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
-      "offset": 11968,
+      "offset": 11964,
       "length": 75,
       "value": "\"prevent_replies_to_close_conversations_within_number_of_days_for_visitors\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
-      "offset": 12177,
+      "offset": 12173,
       "length": 27,
       "value": "\"play_sounds_for_messenger\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
-      "offset": 12177,
+      "offset": 12173,
       "length": 27,
       "value": "\"play_sounds_for_messenger\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
-      "offset": 12335,
+      "offset": 12331,
       "length": 9,
       "value": "\"fromNow\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
-      "offset": 12372,
+      "offset": 12368,
       "length": 13,
       "value": "\"availableAt\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
-      "offset": 12335,
+      "offset": 12331,
       "length": 9,
       "value": "\"fromNow\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
-      "offset": 12372,
+      "offset": 12368,
       "length": 13,
       "value": "\"availableAt\""
     },
@@ -3867,7 +5322,7 @@
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatClient\/SalesmateChatClient.swift",
       "kind": "BooleanLiteral",
-      "offset": 1422,
+      "offset": 1497,
       "length": 5,
       "value": "false"
     },
@@ -4588,7 +6043,7 @@
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatClient\/ChatClient.swift",
       "kind": "BooleanLiteral",
-      "offset": 3675,
+      "offset": 3705,
       "length": 5,
       "value": "false"
     },
@@ -5414,70 +6869,70 @@
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1140,
+      "offset": 1150,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1183,
+      "offset": 1193,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1233,
+      "offset": 1243,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1281,
+      "offset": 1291,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1342,
+      "offset": 1352,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1394,
+      "offset": 1404,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
       "kind": "StringLiteral",
-      "offset": 1986,
+      "offset": 1996,
       "length": 10,
       "value": "\"leftMove\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
       "kind": "StringLiteral",
-      "offset": 2033,
+      "offset": 2043,
       "length": 11,
       "value": "\"rightMove\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
       "kind": "FloatLiteral",
-      "offset": 2096,
+      "offset": 2106,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
       "kind": "FloatLiteral",
-      "offset": 2267,
+      "offset": 2277,
       "length": 3,
       "value": "0.2"
     },
