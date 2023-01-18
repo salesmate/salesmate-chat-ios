@@ -4078,19 +4078,19 @@
       "kind": "StringLiteral",
       "offset": 143,
       "length": 7,
-      "value": "\"1.0.4\""
+      "value": "\"1.0.5\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIRequests.swift",
       "kind": "StringLiteral",
-      "offset": 5583,
+      "offset": 5578,
       "length": 13,
       "value": "\"make_public\""
     },
     {
       "filePath": "\/Users\/vishal.nandoriya\/Documents\/RapidOps\/Projects\/Salesmate\/Salesmate-Chat\/SourceCode\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIRequests.swift",
       "kind": "StringLiteral",
-      "offset": 5605,
+      "offset": 5600,
       "length": 6,
       "value": "\"true\""
     },

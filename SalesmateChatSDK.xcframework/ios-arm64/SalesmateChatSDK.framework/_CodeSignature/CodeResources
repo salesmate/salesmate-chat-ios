@@ -86,7 +86,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		x+D6Vw0gXeQ2y6d/1tsNGrnocTs=
+		4+dxVUR4rH9u1t+CycGOZ5QHfv8=
 		</data>
 		<key>LICENSE.md</key>
 		<data>
@@ -94,7 +94,7 @@
 		</data>
 		<key>Modules/SalesmateChatSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		TG5LSrxPKKnH3YI7JZVmL99MFRU=
+		E8nCoFYzArb9Jdz8V0+THItG3dg=
 		</data>
 		<key>Modules/SalesmateChatSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -110,7 +110,7 @@
 		</data>
 		<key>Modules/SalesmateChatSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		dAEl/42z61a50vAOYUmEoQFxYBc=
+		U+42WcIPMVaQKNLWNoYTrzfpVmw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -402,7 +402,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			G2x9xkUOr6hNW+HQYAa2VSLBqTOAnJKxKZJrw2jIEzU=
+			EcDnGZigEuctAji7pfuGSLTyHoqVRMjGA8eZzuRZahM=
 			</data>
 		</dict>
 		<key>Modules/SalesmateChatSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -430,7 +430,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0vhfbUCMYsIzqhB6MCvp9dOo2mbp5jhQNWqCN+ywu9Q=
+			Pt+IIBckTRBM2+9eHlBKOavO7iwH5JkVv0iW7iqPvYI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

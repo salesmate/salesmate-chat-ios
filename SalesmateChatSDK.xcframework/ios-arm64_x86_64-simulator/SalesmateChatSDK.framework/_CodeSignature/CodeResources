@@ -86,7 +86,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		bm7cByX19QH7fU2zAjjno6cMhOk=
+		/GpthKymwYgMJ9mV9d8PPSQ64lg=
 		</data>
 		<key>LICENSE.md</key>
 		<data>
@@ -94,7 +94,7 @@
 		</data>
 		<key>Modules/SalesmateChatSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		TG5LSrxPKKnH3YI7JZVmL99MFRU=
+		E8nCoFYzArb9Jdz8V0+THItG3dg=
 		</data>
 		<key>Modules/SalesmateChatSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -110,11 +110,11 @@
 		</data>
 		<key>Modules/SalesmateChatSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Tjcqy0vhY7IhFigyrZiRWTLCGGQ=
+		+gFtZG1hXuPB+jSWmtMxUDsVUkg=
 		</data>
 		<key>Modules/SalesmateChatSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		TG5LSrxPKKnH3YI7JZVmL99MFRU=
+		E8nCoFYzArb9Jdz8V0+THItG3dg=
 		</data>
 		<key>Modules/SalesmateChatSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -130,7 +130,7 @@
 		</data>
 		<key>Modules/SalesmateChatSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		wvPHnpD3zG1u/Qb5+VjAJMpe1ZA=
+		PjDmS59vjx72CeNCxSSlSo1wDBw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -422,7 +422,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			G2x9xkUOr6hNW+HQYAa2VSLBqTOAnJKxKZJrw2jIEzU=
+			EcDnGZigEuctAji7pfuGSLTyHoqVRMjGA8eZzuRZahM=
 			</data>
 		</dict>
 		<key>Modules/SalesmateChatSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -450,14 +450,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qduERzH4p00YEp3KbVpBQKPsQQkAjrgf4POYsbIma5s=
+			i4Eu3D0K4VylXFmW45MHGKS2PmCH8NySO6/Si4nTIAs=
 			</data>
 		</dict>
 		<key>Modules/SalesmateChatSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			G2x9xkUOr6hNW+HQYAa2VSLBqTOAnJKxKZJrw2jIEzU=
+			EcDnGZigEuctAji7pfuGSLTyHoqVRMjGA8eZzuRZahM=
 			</data>
 		</dict>
 		<key>Modules/SalesmateChatSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -485,7 +485,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XeZAHudurntwKHRlb7KOQUgXWvzkq2ivUASHPf5Lgq0=
+			SMb+hY3t/8B6xjnS4Pp6Sj45EEFVZ6yfmsYRv8/lDo4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
