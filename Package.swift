@@ -14,13 +14,13 @@ let package = Package(
             targets: ["SalesmateChatSDK"]),
     ],
     dependencies: [
-         .package(url: "https://github.com/daltoniam/Starscream", from: "4.0.4"),
+         .package(url: "https://github.com/pusher/NWWebSocket.git", from: "0.5.3"),
          .package(url: "https://github.com/SwiftyJSON/SwiftyJSON", from: "5.0.1"),
          .package(url: "https://github.com/kean/Nuke.git", from: "10.3.1"),
     ],
     targets: [
         .binaryTarget(name: "SalesmateChatSDK",
-                      url: "https://github.com/salesmate/salesmate-chat-ios/releases/download/1.0.5/SalesmateChatSDK.xcframework.zip",
-                      checksum: "6384361c1e582792ea346f51abc530680caaba25317ff87d830d00bf61e1776e"),
+                      url: "https://github.com/salesmate/salesmate-chat-ios/releases/download/1.0.6/SalesmateChatSDK.xcframework.zip",
+                      checksum: "6d63344d969169e9c7cff633f9485e35030a91015801e40d55ae4a8dd54fd007"),
     ]
 )

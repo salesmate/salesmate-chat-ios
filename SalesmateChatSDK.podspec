@@ -1,9 +1,9 @@
 Pod::Spec.new do |s|
   s.name                = 'SalesmateChatSDK'
-  s.version             = '1.0.5'
+  s.version             = '1.0.6'
   s.summary             = 'The SalesmateChatSDK is an iOS SDK, for integrating SalesmateChat into your iOS application.'
   s.license             = { :type => "Apache 2.0", :file => "LICENSE" }
-  s.authors             = {"Dipesh"=>"dipesh@rapidops.com"}
+  s.authors             = {"VishaliOSRapidops"=>"vishal.nandoriya@rapidops.com"}
   s.homepage            = 'https://github.com/salesmate/salesmate-chat-ios'
   s.description         = 'The SalesmateChatSDK is an iOS SDK, mobile messaging framework for iOS.'
   s.requires_arc        = true

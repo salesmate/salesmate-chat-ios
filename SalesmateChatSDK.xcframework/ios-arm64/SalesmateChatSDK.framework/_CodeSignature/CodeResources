@@ -14,7 +14,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		ZqJduDIT0x+PZVazHtHZcjBsKu0=
+		GPeY6R0WzT888DH1w+wITDLE9vk=
 		</data>
 		<key>CHANGELOG.md</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>Headers/SalesmateChatSDK-Swift.h</key>
 		<data>
-		P0fy1YN8IH0gRC5X7wmqXS6FOBE=
+		UKxl0EtevHuhZ7kokURnWNcTnBc=
 		</data>
 		<key>Headers/SalesmateChatSDK.h</key>
 		<data>
@@ -86,7 +86,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		4+dxVUR4rH9u1t+CycGOZ5QHfv8=
+		UygSfRir2jdqoHS9tBv7puqdwtk=
 		</data>
 		<key>LICENSE.md</key>
 		<data>
@@ -94,23 +94,23 @@
 		</data>
 		<key>Modules/SalesmateChatSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		E8nCoFYzArb9Jdz8V0+THItG3dg=
+		uRzFHtfyyrOnZb3fMAbez+tyNj8=
 		</data>
 		<key>Modules/SalesmateChatSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		pjIYV/f5bZZpIYzBPTqiaVGd/c4=
+		xDkCxGU35KIyUZf6eexvJ5l+kOM=
 		</data>
 		<key>Modules/SalesmateChatSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		Mw1VDLjMh+k+yt4UTFRXyVrloq8=
+		Lf4q3oZsPrgXGrYwBLjEas41BSI=
 		</data>
 		<key>Modules/SalesmateChatSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		pjIYV/f5bZZpIYzBPTqiaVGd/c4=
+		xDkCxGU35KIyUZf6eexvJ5l+kOM=
 		</data>
 		<key>Modules/SalesmateChatSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		U+42WcIPMVaQKNLWNoYTrzfpVmw=
+		mY3UB9e6MRQtB2+GusxtO5rInFM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -269,7 +269,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XsQlE+qO2gzLsqwrH4kVzzzZh94BupqxpZ9dr09WCMA=
+			3CyLMvCzw34doBIUDWaStJJvRCQCq0jLFo+y0IA6zHI=
 			</data>
 		</dict>
 		<key>CHANGELOG.md</key>
@@ -360,7 +360,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LVoS/8wnuNyCdWbVFwhBD6FMNx2v68aWIwlpJprUyg8=
+			3sdhZHtPbpN3UXJg3oKCgNNSViXneivjxEFHSnOMO+k=
 			</data>
 		</dict>
 		<key>Headers/SalesmateChatSDK.h</key>
@@ -402,35 +402,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EcDnGZigEuctAji7pfuGSLTyHoqVRMjGA8eZzuRZahM=
+			XmILwcf58Pnt68Fb6pr+yia9YwixHabwwJMSfYjXo6o=
 			</data>
 		</dict>
 		<key>Modules/SalesmateChatSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			v2dRK05mpzRYOsAd69LVhvoC7dhB7B8BLtAnknSTYS4=
+			W+LuRrmdJDCblOM19DFpBmGiJyDYq3Q1M5QJY3ySCcI=
 			</data>
 		</dict>
 		<key>Modules/SalesmateChatSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OpW7R3PkC7wtSGjagcQCUI7POEyz31s0BN/HUYjrMgs=
+			Xa6/U1fd5cH/ZBPlOh8GXNqOPHv14VuaxGgESDasI3o=
 			</data>
 		</dict>
 		<key>Modules/SalesmateChatSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			v2dRK05mpzRYOsAd69LVhvoC7dhB7B8BLtAnknSTYS4=
+			W+LuRrmdJDCblOM19DFpBmGiJyDYq3Q1M5QJY3ySCcI=
 			</data>
 		</dict>
 		<key>Modules/SalesmateChatSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Pt+IIBckTRBM2+9eHlBKOavO7iwH5JkVv0iW7iqPvYI=
+			EnNZp+knfChIej5Cn4Np3A67QRC1yo/Bu3GwhW34e0c=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
