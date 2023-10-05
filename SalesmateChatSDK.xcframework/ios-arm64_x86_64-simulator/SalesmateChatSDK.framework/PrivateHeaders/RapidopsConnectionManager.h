@@ -13,6 +13,7 @@
 
 @property (nonatomic) NSString* appKey;
 @property (nonatomic) NSString* tenantID;
+@property (nonatomic) NSString* userId;
 @property (nonatomic) NSString* host;
 @property (nonatomic) NSURLSessionTask* connection;
 @property (nonatomic) NSArray* pinnedCertificates;

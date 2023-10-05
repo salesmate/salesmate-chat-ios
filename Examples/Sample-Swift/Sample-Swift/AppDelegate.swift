@@ -27,10 +27,34 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         // Override point for customization after application launch.
         
         // Chat configuration
-        configureSalesmateChatMessengerSDK(env: .production, workspaceID: SALESMATE_CHAT_SDK_WORKSPACE_ID, appKey: SALESMATE_CHAT_SDK_APP_KEY, tenantID: SALESMATE_CHAT_SDK_API_TENANT_ID)
+        if !isValidPercentageString("1.1") {
+            print("Not valid")
+        } else {
+            print("Valid")
+        }
+//        configureSalesmateChatMessengerSDK(env: .production, workspaceID: SALESMATE_CHAT_SDK_WORKSPACE_ID, appKey: SALESMATE_CHAT_SDK_APP_KEY, tenantID: SALESMATE_CHAT_SDK_API_TENANT_ID)
         return true
     }
 
+    func isValidPercentageString(_ string : String) -> Bool {
+        do {
+           let regexPattern = #"^(100(\.00?)?|\d{1,2}(\.\d{1,2})?)$"# // Swift 5.0 and later use #"..."# for raw string literals
+
+           let regex = try NSRegularExpression(pattern: regexPattern, options: [])
+           let range = NSRange(location: 0, length: string.utf16.count)
+           let matches = regex.matches(in: string, options: [], range: range)
+
+           if let match = matches.first {
+               let matchedString = (string as NSString).substring(with: match.range)
+               return true
+           } else {
+               return false
+           }
+        } catch {
+            return false
+        }
+    }
+    
     func configureSalesmateChatMessengerSDK(env: Environment, workspaceID: String, appKey: String, tenantID: String) {
         let config = Configuration(workspaceID: workspaceID,
                                    appKey: appKey,

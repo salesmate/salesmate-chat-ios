@@ -14,7 +14,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		GPeY6R0WzT888DH1w+wITDLE9vk=
+		ZqJduDIT0x+PZVazHtHZcjBsKu0=
 		</data>
 		<key>CHANGELOG.md</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>Headers/SalesmateChatSDK-Swift.h</key>
 		<data>
-		KTWCYLxWfxgvqyMgoBYTuoW77xA=
+		6Mdr64fE/a+wTUImCsK1ZVwiYLk=
 		</data>
 		<key>Headers/SalesmateChatSDK.h</key>
 		<data>
@@ -86,7 +86,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		KxILEFrCWb507H/ifnKBVn+9+lc=
+		186G81x9tjeCKMWqpvmQxw1MM8s=
 		</data>
 		<key>LICENSE.md</key>
 		<data>
@@ -94,43 +94,43 @@
 		</data>
 		<key>Modules/SalesmateChatSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		uRzFHtfyyrOnZb3fMAbez+tyNj8=
+		qzTUGjyLJBMXsaz+Fhg0AdMkubI=
 		</data>
 		<key>Modules/SalesmateChatSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		XzAIf9gbWLGNp37AksedTB6+Km0=
+		D4Qft3zlWRrVpd9mFLLQSper6po=
 		</data>
 		<key>Modules/SalesmateChatSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		WDX//Hz4gxaxQEKVs+lglcNvO9o=
+		md5Pq7SASGQbA4yeOJY3hVZI+bA=
 		</data>
 		<key>Modules/SalesmateChatSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		XzAIf9gbWLGNp37AksedTB6+Km0=
+		D4Qft3zlWRrVpd9mFLLQSper6po=
 		</data>
 		<key>Modules/SalesmateChatSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		4csxaM4OteJdIKspwWU3WoxtrwU=
+		mQA8K8Zu66gC+k34j7Spugn8FE4=
 		</data>
 		<key>Modules/SalesmateChatSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		uRzFHtfyyrOnZb3fMAbez+tyNj8=
+		qzTUGjyLJBMXsaz+Fhg0AdMkubI=
 		</data>
 		<key>Modules/SalesmateChatSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		YOMOIQhOJX5+QzrTR0e0MNRzyU0=
+		3O5LxS7rDqD42TTo7cn4uIU8IqM=
 		</data>
 		<key>Modules/SalesmateChatSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		InPLHZnXbEkuFkVkPHjko1lDuT8=
+		WmRMPY9qS4nbz8rXaZwUmy/qZmg=
 		</data>
 		<key>Modules/SalesmateChatSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		YOMOIQhOJX5+QzrTR0e0MNRzyU0=
+		3O5LxS7rDqD42TTo7cn4uIU8IqM=
 		</data>
 		<key>Modules/SalesmateChatSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ISKmlFIE1a2BSMbs6B9inT7GZKY=
+		U5RtaW407BNqlE1YI7so80y75W0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -150,7 +150,7 @@
 		</data>
 		<key>PrivateHeaders/Rapidops.h</key>
 		<data>
-		ITgE/ZWVsaYpg78sEu8Xw2gTu/U=
+		3RmfU7EZgDnAcY33gK3AuCy9/bQ=
 		</data>
 		<key>PrivateHeaders/RapidopsAPM.h</key>
 		<data>
@@ -166,11 +166,11 @@
 		</data>
 		<key>PrivateHeaders/RapidopsConfig.h</key>
 		<data>
-		9nokg7Za/r2U9FOULbj74vtDMQc=
+		ZK/WZ/wbjkEKAh6sYe9igLVLc2w=
 		</data>
 		<key>PrivateHeaders/RapidopsConnectionManager.h</key>
 		<data>
-		sUT9iAuFmYqYvndCv2j2f+Jvffk=
+		LorVgzyUwvv+PBEYaldRi5qWrCk=
 		</data>
 		<key>PrivateHeaders/RapidopsConsentManager.h</key>
 		<data>
@@ -289,7 +289,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3CyLMvCzw34doBIUDWaStJJvRCQCq0jLFo+y0IA6zHI=
+			XsQlE+qO2gzLsqwrH4kVzzzZh94BupqxpZ9dr09WCMA=
 			</data>
 		</dict>
 		<key>CHANGELOG.md</key>
@@ -380,7 +380,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sGz+vzi9ncFNyXz/TAqqVfhHnOnc5iGdY+AhaFdZj+I=
+			3qFe4fMmBMJMCf8igBNppc09FD0IaLkCFH5ICUsNLLs=
 			</data>
 		</dict>
 		<key>Headers/SalesmateChatSDK.h</key>
@@ -422,70 +422,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XmILwcf58Pnt68Fb6pr+yia9YwixHabwwJMSfYjXo6o=
+			bPXOdpyAfB4R6etbHvi1DSRfcdnjXodlVx4TRPJddME=
 			</data>
 		</dict>
 		<key>Modules/SalesmateChatSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nm0FMtG8CSqkonSNmIBnTnZate8YVIscgFtiGd5eNPg=
+			WriGumB7UjYQunlm/CWkglrG4+zDroI1x6cGBrwGcOg=
 			</data>
 		</dict>
 		<key>Modules/SalesmateChatSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			h0hWWDImd/oXtEKTlMEUq3hemnsXl4el7dcbt5FMUtc=
+			ahrILqeN4x+LiAVpWyIr7uMFDMpuIVrJ7hPvJU09lRQ=
 			</data>
 		</dict>
 		<key>Modules/SalesmateChatSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nm0FMtG8CSqkonSNmIBnTnZate8YVIscgFtiGd5eNPg=
+			WriGumB7UjYQunlm/CWkglrG4+zDroI1x6cGBrwGcOg=
 			</data>
 		</dict>
 		<key>Modules/SalesmateChatSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wfMRJYOGgDr1AhEo2esFst1xiwewE92R/UK2noImlGk=
+			/cfzzWcDAPddP8OJvKz7wFirMjmdMcMxXJDRN1NBTvQ=
 			</data>
 		</dict>
 		<key>Modules/SalesmateChatSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XmILwcf58Pnt68Fb6pr+yia9YwixHabwwJMSfYjXo6o=
+			bPXOdpyAfB4R6etbHvi1DSRfcdnjXodlVx4TRPJddME=
 			</data>
 		</dict>
 		<key>Modules/SalesmateChatSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QGTvhB8mh5/oIq+bu6NOxtZRCigecXCiPyouPPfAiT0=
+			Aj+BNaVczf3fkgBsdRuerDu7IKgePoeNH5NiLSernu4=
 			</data>
 		</dict>
 		<key>Modules/SalesmateChatSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PhJgnkhOwwbjjA2ERWdfeaxsmNSxyakyw73o5Lg+ZZM=
+			E2vIy8qUWPKh2o8jiDOygQQKIyLcZfBzBLHn9ZChGmI=
 			</data>
 		</dict>
 		<key>Modules/SalesmateChatSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QGTvhB8mh5/oIq+bu6NOxtZRCigecXCiPyouPPfAiT0=
+			Aj+BNaVczf3fkgBsdRuerDu7IKgePoeNH5NiLSernu4=
 			</data>
 		</dict>
 		<key>Modules/SalesmateChatSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			x1jMSuNbFImb7R1flFQqNhYp5Iad7Luu0HNK5uPjP+g=
+			qfvNxiWY3m1sFjQJh8ZftCuBMPHgytSelUCAa/hc/oM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -520,7 +520,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ad2jctKffvaY89/O1IBjKbvBBqdaDorpL0YIttodCyw=
+			8vt22IvIod01gU8RuzCDmAL5Akm1ssI3aEJJoPeOncg=
 			</data>
 		</dict>
 		<key>PrivateHeaders/RapidopsAPM.h</key>
@@ -548,14 +548,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EMzy14FKSpuByhDt6BlWCPZC0XGvyK37nytUTAYvcqA=
+			hRVLKN3IIjKJzwlQ2D8QyyNY1aBW69mAHsdW7r77LAk=
 			</data>
 		</dict>
 		<key>PrivateHeaders/RapidopsConnectionManager.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			reuVoNLU5qyw9FGJP3bs70P+gIUKhTJmWmVUHn5xeRA=
+			lFe05Q4KNoo9bgQxyRsDH5tgGRTQRfBIP6B3qbHxwXU=
 			</data>
 		</dict>
 		<key>PrivateHeaders/RapidopsConsentManager.h</key>

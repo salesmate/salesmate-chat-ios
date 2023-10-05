@@ -14,7 +14,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		GPeY6R0WzT888DH1w+wITDLE9vk=
+		ZqJduDIT0x+PZVazHtHZcjBsKu0=
 		</data>
 		<key>CHANGELOG.md</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>Headers/SalesmateChatSDK-Swift.h</key>
 		<data>
-		UKxl0EtevHuhZ7kokURnWNcTnBc=
+		P0fy1YN8IH0gRC5X7wmqXS6FOBE=
 		</data>
 		<key>Headers/SalesmateChatSDK.h</key>
 		<data>
@@ -86,7 +86,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		UygSfRir2jdqoHS9tBv7puqdwtk=
+		Ss3Ger1nPbb6IJVsunF28s5kKBc=
 		</data>
 		<key>LICENSE.md</key>
 		<data>
@@ -94,23 +94,23 @@
 		</data>
 		<key>Modules/SalesmateChatSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		uRzFHtfyyrOnZb3fMAbez+tyNj8=
+		qzTUGjyLJBMXsaz+Fhg0AdMkubI=
 		</data>
 		<key>Modules/SalesmateChatSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		xDkCxGU35KIyUZf6eexvJ5l+kOM=
+		pjIYV/f5bZZpIYzBPTqiaVGd/c4=
 		</data>
 		<key>Modules/SalesmateChatSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		Lf4q3oZsPrgXGrYwBLjEas41BSI=
+		Mw1VDLjMh+k+yt4UTFRXyVrloq8=
 		</data>
 		<key>Modules/SalesmateChatSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		xDkCxGU35KIyUZf6eexvJ5l+kOM=
+		pjIYV/f5bZZpIYzBPTqiaVGd/c4=
 		</data>
 		<key>Modules/SalesmateChatSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		mY3UB9e6MRQtB2+GusxtO5rInFM=
+		z3X0Db/5LZnFHt3fxUHiK6YLXwQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -130,7 +130,7 @@
 		</data>
 		<key>PrivateHeaders/Rapidops.h</key>
 		<data>
-		ITgE/ZWVsaYpg78sEu8Xw2gTu/U=
+		3RmfU7EZgDnAcY33gK3AuCy9/bQ=
 		</data>
 		<key>PrivateHeaders/RapidopsAPM.h</key>
 		<data>
@@ -146,11 +146,11 @@
 		</data>
 		<key>PrivateHeaders/RapidopsConfig.h</key>
 		<data>
-		9nokg7Za/r2U9FOULbj74vtDMQc=
+		ZK/WZ/wbjkEKAh6sYe9igLVLc2w=
 		</data>
 		<key>PrivateHeaders/RapidopsConnectionManager.h</key>
 		<data>
-		sUT9iAuFmYqYvndCv2j2f+Jvffk=
+		LorVgzyUwvv+PBEYaldRi5qWrCk=
 		</data>
 		<key>PrivateHeaders/RapidopsConsentManager.h</key>
 		<data>
@@ -269,7 +269,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3CyLMvCzw34doBIUDWaStJJvRCQCq0jLFo+y0IA6zHI=
+			XsQlE+qO2gzLsqwrH4kVzzzZh94BupqxpZ9dr09WCMA=
 			</data>
 		</dict>
 		<key>CHANGELOG.md</key>
@@ -360,7 +360,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3sdhZHtPbpN3UXJg3oKCgNNSViXneivjxEFHSnOMO+k=
+			LVoS/8wnuNyCdWbVFwhBD6FMNx2v68aWIwlpJprUyg8=
 			</data>
 		</dict>
 		<key>Headers/SalesmateChatSDK.h</key>
@@ -402,35 +402,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XmILwcf58Pnt68Fb6pr+yia9YwixHabwwJMSfYjXo6o=
+			bPXOdpyAfB4R6etbHvi1DSRfcdnjXodlVx4TRPJddME=
 			</data>
 		</dict>
 		<key>Modules/SalesmateChatSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			W+LuRrmdJDCblOM19DFpBmGiJyDYq3Q1M5QJY3ySCcI=
+			v2dRK05mpzRYOsAd69LVhvoC7dhB7B8BLtAnknSTYS4=
 			</data>
 		</dict>
 		<key>Modules/SalesmateChatSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Xa6/U1fd5cH/ZBPlOh8GXNqOPHv14VuaxGgESDasI3o=
+			OpW7R3PkC7wtSGjagcQCUI7POEyz31s0BN/HUYjrMgs=
 			</data>
 		</dict>
 		<key>Modules/SalesmateChatSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			W+LuRrmdJDCblOM19DFpBmGiJyDYq3Q1M5QJY3ySCcI=
+			v2dRK05mpzRYOsAd69LVhvoC7dhB7B8BLtAnknSTYS4=
 			</data>
 		</dict>
 		<key>Modules/SalesmateChatSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EnNZp+knfChIej5Cn4Np3A67QRC1yo/Bu3GwhW34e0c=
+			npgmdLv8CN5NeWEmqEFdnkxhdIaT7g69CtN/1zB8UUM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -465,7 +465,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ad2jctKffvaY89/O1IBjKbvBBqdaDorpL0YIttodCyw=
+			8vt22IvIod01gU8RuzCDmAL5Akm1ssI3aEJJoPeOncg=
 			</data>
 		</dict>
 		<key>PrivateHeaders/RapidopsAPM.h</key>
@@ -493,14 +493,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EMzy14FKSpuByhDt6BlWCPZC0XGvyK37nytUTAYvcqA=
+			hRVLKN3IIjKJzwlQ2D8QyyNY1aBW69mAHsdW7r77LAk=
 			</data>
 		</dict>
 		<key>PrivateHeaders/RapidopsConnectionManager.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			reuVoNLU5qyw9FGJP3bs70P+gIUKhTJmWmVUHn5xeRA=
+			lFe05Q4KNoo9bgQxyRsDH5tgGRTQRfBIP6B3qbHxwXU=
 			</data>
 		</dict>
 		<key>PrivateHeaders/RapidopsConsentManager.h</key>

@@ -37,6 +37,8 @@ NS_ASSUME_NONNULL_BEGIN
  */
 - (void)setNewDeviceID:(NSString * _Nullable)deviceID onServer:(BOOL)onServer;
 
+- (void)setUserID:(NSString * _Nullable)userId;
+
 /**
  * Sets the value of the custom HTTP header field to be sent with every request if @c customHeaderFieldName is set on initial configuration.
  * @discussion If @c customHeaderFieldValue on initial configuration can not be set on app launch, this method can be used to do so later.

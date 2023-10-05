@@ -15,7 +15,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         // Set Visitor Id
-        setVerifiedId()
+        //setVerifiedId()
     }
 
     func setVerifiedId() {

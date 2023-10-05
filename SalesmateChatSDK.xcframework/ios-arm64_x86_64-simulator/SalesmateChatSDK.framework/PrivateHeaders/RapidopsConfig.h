@@ -158,6 +158,8 @@ extern NSString* const RPDConsentAppleWatch;
 
 @property (nonatomic, copy) NSString* tenantID;
 
+@property (nonatomic, copy) NSString* userId;
+
 //@property (nonatomic, copy) NSString* visitorID;
 //
 //@property (nonatomic, copy) NSString* sessionID;
