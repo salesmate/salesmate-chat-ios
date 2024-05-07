@@ -52,7 +52,7 @@
     // 1 = Staging
     // 2 = Production
     
-    Configuration *config = [[Configuration alloc] initWithWorkspaceID: workspaceID appKey: appKey tenantID: tenantID environment: 2];
+    Configuration *config = [[Configuration alloc] initWithWorkspaceID: workspaceID appKey: appKey tenantID: tenantID];
     [SalesmateChat setSalesmateChatWithConfiguration: config];
 }
 

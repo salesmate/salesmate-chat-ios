@@ -26,15 +26,14 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
         
-        configureSalesmateChatMessengerSDK(env: .production, workspaceID: SALESMATE_CHAT_SDK_WORKSPACE_ID, appKey: SALESMATE_CHAT_SDK_APP_KEY, tenantID: SALESMATE_CHAT_SDK_API_TENANT_ID)
+        configureSalesmateChatMessengerSDK(workspaceID: SALESMATE_CHAT_SDK_WORKSPACE_ID, appKey: SALESMATE_CHAT_SDK_APP_KEY, tenantID: SALESMATE_CHAT_SDK_API_TENANT_ID)
         return true
     }
     
-    func configureSalesmateChatMessengerSDK(env: Environment, workspaceID: String, appKey: String, tenantID: String) {
+    func configureSalesmateChatMessengerSDK(workspaceID: String, appKey: String, tenantID: String) {
         let config = Configuration(workspaceID: workspaceID,
                                    appKey: appKey,
-                                   tenantID: tenantID,
-                                   environment: env)
+                                   tenantID: tenantID)
         SalesmateChat.setSalesmateChat(configuration: config)
     }
     
