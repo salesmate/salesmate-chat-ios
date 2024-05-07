@@ -6,8 +6,8 @@
         "repositoryURL": "https://github.com/kean/Nuke.git",
         "state": {
           "branch": null,
-          "revision": "a002b7fd786f2df2ed4333fe73a9727499fd9d97",
-          "version": "10.11.2"
+          "revision": "8e431251dea0081b6ab154dab61a6ec74e4b6577",
+          "version": "12.6.0"
         }
       },
       {
@@ -15,8 +15,8 @@
         "repositoryURL": "https://github.com/pusher/NWWebSocket.git",
         "state": {
           "branch": null,
-          "revision": "19d23951c8099304ad98e2fc762fa23d6bfab0b9",
-          "version": "0.5.3"
+          "revision": "1e545fcb53966272fc042aa17ae932f11239e00f",
+          "version": "0.5.4"
         }
       },
       {
@@ -24,8 +24,8 @@
         "repositoryURL": "https://github.com/SwiftyJSON/SwiftyJSON",
         "state": {
           "branch": null,
-          "revision": "b3dcd7dbd0d488e1a7077cb33b00f2083e382f07",
-          "version": "5.0.1"
+          "revision": "af76cf3ef710b6ca5f8c05f3a31307d44a3c5828",
+          "version": "5.0.2"
         }
       }
     ]

@@ -68,7 +68,7 @@ import _StringProcessing
   }
 }
 @objc public class Configuration : ObjectiveC.NSObject {
-  @objc public init(workspaceID: Swift.String, appKey: Swift.String, tenantID: Swift.String, environment: SalesmateChatSDK.Environment)
+  @objc public init(workspaceID: Swift.String, appKey: Swift.String, tenantID: Swift.String)
   @objc deinit
 }
 @_hasMissingDesignatedInitializers @objc public class SalesmateChat : ObjectiveC.NSObject {

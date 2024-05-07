@@ -1403,8 +1403,8 @@
             "kind": "Conformance",
             "name": "Nuke_ImageDisplaying",
             "printedName": "Nuke_ImageDisplaying",
-            "usr": "c:@M@Nuke@objc(pl)Nuke_ImageDisplaying",
-            "mangledName": "$s4Nuke0A16_ImageDisplayingP"
+            "usr": "c:@M@NukeExtensions@objc(pl)Nuke_ImageDisplaying",
+            "mangledName": "$s14NukeExtensions0A16_ImageDisplayingP"
           }
         ]
       },
@@ -2003,7 +2003,7 @@
           {
             "kind": "Constructor",
             "name": "init",
-            "printedName": "init(workspaceID:appKey:tenantID:environment:)",
+            "printedName": "init(workspaceID:appKey:tenantID:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -2028,19 +2028,13 @@
                 "name": "String",
                 "printedName": "Swift.String",
                 "usr": "s:SS"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Environment",
-                "printedName": "SalesmateChatSDK.Environment",
-                "usr": "c:@M@SalesmateChatSDK@E@Environment"
               }
             ],
             "declKind": "Constructor",
-            "usr": "c:@M@SalesmateChatSDK@objc(cs)Configuration(im)initWithWorkspaceID:appKey:tenantID:environment:",
-            "mangledName": "$s16SalesmateChatSDK13ConfigurationC11workspaceID6appKey06tenantF011environmentACSS_S2SAA11EnvironmentOtcfc",
+            "usr": "c:@M@SalesmateChatSDK@objc(cs)Configuration(im)initWithWorkspaceID:appKey:tenantID:",
+            "mangledName": "$s16SalesmateChatSDK13ConfigurationC11workspaceID6appKey06tenantF0ACSS_S2Stcfc",
             "moduleName": "SalesmateChatSDK",
-            "objc_name": "initWithWorkspaceID:appKey:tenantID:environment:",
+            "objc_name": "initWithWorkspaceID:appKey:tenantID:",
             "declAttributes": [
               "AccessControl",
               "ObjC"
@@ -2976,8 +2970,8 @@
       },
       {
         "kind": "Import",
-        "name": "Nuke",
-        "printedName": "Nuke",
+        "name": "NukeExtensions",
+        "printedName": "NukeExtensions",
         "declKind": "Import",
         "moduleName": "SalesmateChatSDK",
         "declAttributes": [
@@ -4074,2891 +4068,2877 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIRequests.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIRequests.swift",
       "kind": "StringLiteral",
       "offset": 143,
       "length": 7,
-      "value": "\"1.0.8\""
+      "value": "\"1.0.9\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIRequests.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIRequests.swift",
       "kind": "StringLiteral",
-      "offset": 5578,
+      "offset": 5577,
       "length": 13,
       "value": "\"make_public\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIRequests.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIRequests.swift",
       "kind": "StringLiteral",
-      "offset": 5600,
+      "offset": 5599,
       "length": 6,
       "value": "\"true\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/AvailableUsersView.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/AvailableUsersView.swift",
       "kind": "Array",
       "offset": 396,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/AvailableUsersView.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/AvailableUsersView.swift",
       "kind": "Array",
       "offset": 425,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/AvailableUsersView.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/AvailableUsersView.swift",
       "kind": "Array",
       "offset": 1411,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/Chat\/MessageCellViewModel.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/Chat\/MessageCellViewModel.swift",
       "kind": "StringLiteral",
       "offset": 1288,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/Chat\/MessageCellViewModel.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/Chat\/MessageCellViewModel.swift",
       "kind": "StringLiteral",
       "offset": 2293,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/Chat\/MessageCellViewModel.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/Chat\/MessageCellViewModel.swift",
       "kind": "StringLiteral",
       "offset": 2321,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SDKMTProfileImageView.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SDKMTProfileImageView.swift",
       "kind": "BooleanLiteral",
       "offset": 340,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SDKMTProfileImageView.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SDKMTProfileImageView.swift",
       "kind": "BooleanLiteral",
       "offset": 528,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SDKMTProfileImageView.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SDKMTProfileImageView.swift",
       "kind": "BooleanLiteral",
       "offset": 715,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SDKMTProfileImageView.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SDKMTProfileImageView.swift",
       "kind": "BooleanLiteral",
       "offset": 928,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SDKMTProfileImageView.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SDKMTProfileImageView.swift",
       "kind": "BooleanLiteral",
       "offset": 825,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SDKMTProfileImageView.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SDKMTProfileImageView.swift",
       "kind": "BooleanLiteral",
       "offset": 1117,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SDKMTProfileImageView.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SDKMTProfileImageView.swift",
       "kind": "BooleanLiteral",
       "offset": 1299,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SDKMTProfileImageView.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SDKMTProfileImageView.swift",
       "kind": "BooleanLiteral",
       "offset": 1453,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SDKMTProfileImageView.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SDKMTProfileImageView.swift",
       "kind": "BooleanLiteral",
       "offset": 1388,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SDKMTProfileImageView.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SDKMTProfileImageView.swift",
       "kind": "BooleanLiteral",
       "offset": 1704,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SDKMTProfileImageView.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SDKMTProfileImageView.swift",
       "kind": "BooleanLiteral",
       "offset": 1830,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SDKMTProfileImageView.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SDKMTProfileImageView.swift",
       "kind": "BooleanLiteral",
       "offset": 7730,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SDKMTProfileImageView.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SDKMTProfileImageView.swift",
       "kind": "Array",
       "offset": 7772,
       "length": 243,
       "value": "[\"255,86,34\", \"128,87,255\", \"77,136,255\", \"255,65,105\", \"103,58,183\", \"3,169,244\", \"38,197,218\", \"0,172,124\", \"192,202,51\", \"255,178,1\", \"0,204,136\"]"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/WebSocketEventCreation.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/WebSocketEventCreation.swift",
       "kind": "IntegerLiteral",
       "offset": 459,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 255,
       "length": 30,
       "value": "\"only_outside_of_office_hours\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 308,
       "length": 8,
       "value": "\"always\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 338,
       "length": 7,
       "value": "\"never\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 255,
       "length": 30,
       "value": "\"only_outside_of_office_hours\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 308,
       "length": 8,
       "value": "\"always\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 338,
       "length": 7,
       "value": "\"never\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "BooleanLiteral",
       "offset": 5584,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 5959,
       "length": 11,
       "value": "\"userAgent\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 5986,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 10105,
       "length": 12,
       "value": "\"reply_time\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 10168,
       "length": 41,
       "value": "\"calculate_response_time_in_office_hours\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 10237,
       "length": 14,
       "value": "\"office_hours\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 10105,
       "length": 12,
       "value": "\"reply_time\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 10168,
       "length": 41,
       "value": "\"calculate_response_time_in_office_hours\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 10237,
       "length": 14,
       "value": "\"office_hours\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 10629,
       "length": 18,
       "value": "\"background_color\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 10675,
       "length": 14,
       "value": "\"action_color\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 10725,
       "length": 22,
       "value": "\"messenger_background\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 10771,
       "length": 10,
       "value": "\"logo_url\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 10811,
       "length": 17,
       "value": "\"show_powered_by\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 10629,
       "length": 18,
       "value": "\"background_color\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 10675,
       "length": 14,
       "value": "\"action_color\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 10725,
       "length": 22,
       "value": "\"messenger_background\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 10771,
       "length": 10,
       "value": "\"logo_url\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 10811,
       "length": 17,
       "value": "\"show_powered_by\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 10947,
       "length": 10,
       "value": "\"language\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 10989,
       "length": 18,
       "value": "\"greeting_message\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 11033,
       "length": 12,
       "value": "\"team_intro\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 11071,
       "length": 12,
       "value": "\"is_default\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 10947,
       "length": 10,
       "value": "\"language\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 10989,
       "length": 18,
       "value": "\"greeting_message\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 11033,
       "length": 12,
       "value": "\"team_intro\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 11071,
       "length": 12,
       "value": "\"is_default\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 11198,
       "length": 4,
       "value": "\"id\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 11227,
       "length": 10,
       "value": "\"linkname\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 11258,
       "length": 6,
       "value": "\"name\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 11301,
       "length": 13,
       "value": "\"description\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 11198,
       "length": 4,
       "value": "\"id\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 11227,
       "length": 10,
       "value": "\"linkname\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 11258,
       "length": 6,
       "value": "\"name\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 11301,
       "length": 13,
       "value": "\"description\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 11594,
       "length": 23,
       "value": "\"can_upload_attachment\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 11594,
       "length": 23,
       "value": "\"can_upload_attachment\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 11764,
       "length": 53,
       "value": "\"prevent_replies_to_close_conversations_for_contacts\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 11859,
       "length": 53,
       "value": "\"prevent_replies_to_close_conversations_for_visitors\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 11960,
       "length": 75,
       "value": "\"prevent_replies_to_close_conversations_within_number_of_days_for_contacts\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 12083,
       "length": 75,
       "value": "\"prevent_replies_to_close_conversations_within_number_of_days_for_visitors\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 11764,
       "length": 53,
       "value": "\"prevent_replies_to_close_conversations_for_contacts\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 11859,
       "length": 53,
       "value": "\"prevent_replies_to_close_conversations_for_visitors\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 11960,
       "length": 75,
       "value": "\"prevent_replies_to_close_conversations_within_number_of_days_for_contacts\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 12083,
       "length": 75,
       "value": "\"prevent_replies_to_close_conversations_within_number_of_days_for_visitors\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 12292,
       "length": 27,
       "value": "\"play_sounds_for_messenger\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 12292,
       "length": 27,
       "value": "\"play_sounds_for_messenger\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 12450,
       "length": 9,
       "value": "\"fromNow\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 12487,
       "length": 13,
       "value": "\"availableAt\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 12450,
       "length": 9,
       "value": "\"fromNow\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Configeration.swift",
       "kind": "StringLiteral",
       "offset": 12487,
       "length": 13,
       "value": "\"availableAt\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/ConversationCell.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/ConversationCell.swift",
       "kind": "StringLiteral",
       "offset": 1080,
       "length": 18,
       "value": "\"ConversationCell\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Chat\/ChatController.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Chat\/ChatController.swift",
       "kind": "BooleanLiteral",
       "offset": 396,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Chat\/ChatController.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Chat\/ChatController.swift",
       "kind": "Array",
       "offset": 458,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Chat\/ChatController.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Chat\/ChatController.swift",
       "kind": "IntegerLiteral",
       "offset": 539,
       "length": 2,
       "value": "50"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Chat\/ChatController.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Chat\/ChatController.swift",
       "kind": "BooleanLiteral",
       "offset": 3151,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Chat\/ChatController.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Chat\/ChatController.swift",
       "kind": "BooleanLiteral",
       "offset": 3553,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Chat\/FilePickerController.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Chat\/FilePickerController.swift",
       "kind": "IntegerLiteral",
       "offset": 441,
       "length": 2,
       "value": "25"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Chat\/FilePickerController.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Chat\/FilePickerController.swift",
       "kind": "Array",
       "offset": 562,
       "length": 129,
       "value": "[\"exe\", \"cmd\", \"msi\", \"com\", \"hta\", \"html\", \"htm\", \"js\", \"jar\", \"vbs\", \"vb\", \"sfx\", \"bat\", \"ps1\", \"war\", \"sh\", \"bash\", \"command\"]"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Chat\/FilePickerController.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Chat\/FilePickerController.swift",
       "kind": "StringLiteral",
       "offset": 354,
       "length": 20,
       "value": "\"SalesmateChatSDK.FilePickerController\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Util\/DateTime.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Util\/DateTime.swift",
       "kind": "StringLiteral",
       "offset": 254,
       "length": 30,
       "value": "\"yyyy-MM-dd'T'HH:mm:ss.SSS'Z'\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Util\/DateTime.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Util\/DateTime.swift",
       "kind": "IntegerLiteral",
       "offset": 399,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Util\/DateTime.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Util\/DateTime.swift",
       "kind": "StringLiteral",
       "offset": 448,
       "length": 13,
       "value": "\"en_US_POSIX\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Util\/DateTime.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Util\/DateTime.swift",
       "kind": "StringLiteral",
       "offset": 624,
       "length": 26,
       "value": "\"yyyy-MM-dd'T'HH:mm:ss'Z'\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Util\/DateTime.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Util\/DateTime.swift",
       "kind": "IntegerLiteral",
       "offset": 765,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Util\/DateTime.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Util\/DateTime.swift",
       "kind": "StringLiteral",
       "offset": 814,
       "length": 13,
       "value": "\"en_US_POSIX\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Util\/DateTime.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Util\/DateTime.swift",
       "kind": "StringLiteral",
       "offset": 988,
       "length": 33,
       "value": "\"yyyy-MM-dd'T'HH:mm:ss.SSS+00:00\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Util\/DateTime.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Util\/DateTime.swift",
       "kind": "IntegerLiteral",
       "offset": 1136,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Util\/DateTime.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Util\/DateTime.swift",
       "kind": "StringLiteral",
       "offset": 1185,
       "length": 13,
       "value": "\"en_US_POSIX\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Entities.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Entities.swift",
       "kind": "StringLiteral",
       "offset": 1419,
       "length": 9,
       "value": "\"user_id\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Entities.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Entities.swift",
       "kind": "StringLiteral",
       "offset": 1450,
       "length": 7,
       "value": "\"email\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Entities.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Entities.swift",
       "kind": "StringLiteral",
       "offset": 1483,
       "length": 12,
       "value": "\"first_name\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Entities.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Entities.swift",
       "kind": "StringLiteral",
       "offset": 1520,
       "length": 11,
       "value": "\"last_name\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Entities.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Entities.swift",
       "kind": "StringLiteral",
       "offset": 1419,
       "length": 9,
       "value": "\"user_id\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Entities.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Entities.swift",
       "kind": "StringLiteral",
       "offset": 1450,
       "length": 7,
       "value": "\"email\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Entities.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Entities.swift",
       "kind": "StringLiteral",
       "offset": 1483,
       "length": 12,
       "value": "\"first_name\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Entities.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Entities.swift",
       "kind": "StringLiteral",
       "offset": 1520,
       "length": 11,
       "value": "\"last_name\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Entities.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Entities.swift",
       "kind": "StringLiteral",
       "offset": 1682,
       "length": 7,
       "value": "\"email\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Entities.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Entities.swift",
       "kind": "StringLiteral",
       "offset": 1710,
       "length": 6,
       "value": "\"name\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Entities.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Entities.swift",
       "kind": "StringLiteral",
       "offset": 1682,
       "length": 7,
       "value": "\"email\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Entities.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Entities.swift",
       "kind": "StringLiteral",
       "offset": 1710,
       "length": 6,
       "value": "\"name\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Conversations\/ConversationsViewModel.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Conversations\/ConversationsViewModel.swift",
       "kind": "Array",
       "offset": 342,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Conversations\/ConversationsViewModel.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Conversations\/ConversationsViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 443,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Conversations\/ConversationsViewModel.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Conversations\/ConversationsViewModel.swift",
       "kind": "StringLiteral",
       "offset": 501,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Conversations\/ConversationsViewModel.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Conversations\/ConversationsViewModel.swift",
       "kind": "StringLiteral",
       "offset": 557,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Conversations\/ConversationsViewModel.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Conversations\/ConversationsViewModel.swift",
       "kind": "StringLiteral",
       "offset": 608,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Conversations\/ConversationsViewModel.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Conversations\/ConversationsViewModel.swift",
       "kind": "Array",
       "offset": 686,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIRequestLoader.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIRequestLoader.swift",
       "kind": "Dictionary",
       "offset": 333,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Chat\/ChatViewModel.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Chat\/ChatViewModel.swift",
       "kind": "Array",
       "offset": 1146,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Chat\/ChatViewModel.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Chat\/ChatViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 1237,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Util\/Miscellaneous.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Util\/Miscellaneous.swift",
       "kind": "StringLiteral",
       "offset": 242,
       "length": 3,
       "value": "\" \""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Util\/Miscellaneous.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Util\/Miscellaneous.swift",
       "kind": "StringLiteral",
       "offset": 268,
       "length": 4,
       "value": "\"\n\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
       "kind": "Array",
       "offset": 182,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
       "kind": "StringLiteral",
       "offset": 1365,
       "length": 12,
       "value": "\"contact_id\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
       "kind": "StringLiteral",
       "offset": 1404,
       "length": 13,
       "value": "\"verified_id\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
       "kind": "StringLiteral",
       "offset": 1467,
       "length": 19,
       "value": "\"last_message_date\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
       "kind": "StringLiteral",
       "offset": 1514,
       "length": 17,
       "value": "\"lastMessageData\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
       "kind": "StringLiteral",
       "offset": 1564,
       "length": 12,
       "value": "\"closedDate\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
       "kind": "StringLiteral",
       "offset": 1608,
       "length": 18,
       "value": "\"contact_has_read\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
       "kind": "StringLiteral",
       "offset": 1655,
       "length": 13,
       "value": "\"userHasSeen\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
       "kind": "StringLiteral",
       "offset": 1696,
       "length": 12,
       "value": "\"owner_user\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
       "kind": "StringLiteral",
       "offset": 1735,
       "length": 28,
       "value": "\"last_participating_user_id\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
       "kind": "StringLiteral",
       "offset": 1365,
       "length": 12,
       "value": "\"contact_id\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
       "kind": "StringLiteral",
       "offset": 1404,
       "length": 13,
       "value": "\"verified_id\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
       "kind": "StringLiteral",
       "offset": 1467,
       "length": 19,
       "value": "\"last_message_date\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
       "kind": "StringLiteral",
       "offset": 1514,
       "length": 17,
       "value": "\"lastMessageData\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
       "kind": "StringLiteral",
       "offset": 1564,
       "length": 12,
       "value": "\"closedDate\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
       "kind": "StringLiteral",
       "offset": 1608,
       "length": 18,
       "value": "\"contact_has_read\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
       "kind": "StringLiteral",
       "offset": 1655,
       "length": 13,
       "value": "\"userHasSeen\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
       "kind": "StringLiteral",
       "offset": 1696,
       "length": 12,
       "value": "\"owner_user\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
       "kind": "StringLiteral",
       "offset": 1735,
       "length": 28,
       "value": "\"last_participating_user_id\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
       "kind": "StringLiteral",
       "offset": 1947,
       "length": 17,
       "value": "\"message_summary\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
       "kind": "StringLiteral",
       "offset": 1992,
       "length": 14,
       "value": "\"message_type\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
       "kind": "StringLiteral",
       "offset": 2029,
       "length": 9,
       "value": "\"user_id\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
       "kind": "StringLiteral",
       "offset": 2064,
       "length": 11,
       "value": "\"blockData\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
       "kind": "StringLiteral",
       "offset": 1947,
       "length": 17,
       "value": "\"message_summary\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
       "kind": "StringLiteral",
       "offset": 1992,
       "length": 14,
       "value": "\"message_type\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
       "kind": "StringLiteral",
       "offset": 2029,
       "length": 9,
       "value": "\"user_id\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Conversation.swift",
       "kind": "StringLiteral",
       "offset": 2064,
       "length": 11,
       "value": "\"blockData\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/HTTP\/Body.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/HTTP\/Body.swift",
       "kind": "Dictionary",
       "offset": 274,
       "length": 65,
       "value": "[(\"Content-Type\", \"application\/json; charset=utf-8\")]"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/HTTP\/Body.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/HTTP\/Body.swift",
       "kind": "Dictionary",
       "offset": 567,
       "length": 67,
       "value": "[(\"Content-Type\", \"application\/x-www-form-urlencoded\")]"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/File.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/File.swift",
       "kind": "StringLiteral",
       "offset": 922,
       "length": 6,
       "value": "\"path\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/File.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/File.swift",
       "kind": "StringLiteral",
       "offset": 949,
       "length": 10,
       "value": "\"fileName\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/File.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/File.swift",
       "kind": "StringLiteral",
       "offset": 984,
       "length": 13,
       "value": "\"contentType\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/File.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/File.swift",
       "kind": "StringLiteral",
       "offset": 1022,
       "length": 5,
       "value": "\"url\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/File.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/File.swift",
       "kind": "StringLiteral",
       "offset": 1057,
       "length": 15,
       "value": "\"thumbnailPath\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/File.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/File.swift",
       "kind": "StringLiteral",
       "offset": 1101,
       "length": 14,
       "value": "\"thumbnailUrl\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/File.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/File.swift",
       "kind": "StringLiteral",
       "offset": 922,
       "length": 6,
       "value": "\"path\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/File.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/File.swift",
       "kind": "StringLiteral",
       "offset": 949,
       "length": 10,
       "value": "\"fileName\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/File.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/File.swift",
       "kind": "StringLiteral",
       "offset": 984,
       "length": 13,
       "value": "\"contentType\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/File.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/File.swift",
       "kind": "StringLiteral",
       "offset": 1022,
       "length": 5,
       "value": "\"url\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/File.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/File.swift",
       "kind": "StringLiteral",
       "offset": 1057,
       "length": 15,
       "value": "\"thumbnailPath\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/File.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/File.swift",
       "kind": "StringLiteral",
       "offset": 1101,
       "length": 14,
       "value": "\"thumbnailUrl\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/File.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/File.swift",
       "kind": "StringLiteral",
       "offset": 1407,
       "length": 5,
       "value": "\"url\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/File.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/File.swift",
       "kind": "StringLiteral",
       "offset": 1437,
       "length": 14,
       "value": "\"content_type\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/File.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/File.swift",
       "kind": "StringLiteral",
       "offset": 1407,
       "length": 5,
       "value": "\"url\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/File.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/File.swift",
       "kind": "StringLiteral",
       "offset": 1437,
       "length": 14,
       "value": "\"content_type\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/File.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/File.swift",
       "kind": "StringLiteral",
       "offset": 1707,
       "length": 15,
       "value": "\"gcp_file_name\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/File.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/File.swift",
       "kind": "StringLiteral",
       "offset": 1747,
       "length": 14,
       "value": "\"content_type\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/File.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/File.swift",
       "kind": "StringLiteral",
       "offset": 1787,
       "length": 11,
       "value": "\"thumbnail\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/File.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/File.swift",
       "kind": "StringLiteral",
       "offset": 1831,
       "length": 25,
       "value": "\"gcp_thumbnail_file_name\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/File.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/File.swift",
       "kind": "StringLiteral",
       "offset": 1707,
       "length": 15,
       "value": "\"gcp_file_name\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/File.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/File.swift",
       "kind": "StringLiteral",
       "offset": 1747,
       "length": 14,
       "value": "\"content_type\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/File.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/File.swift",
       "kind": "StringLiteral",
       "offset": 1787,
       "length": 11,
       "value": "\"thumbnail\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/File.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/File.swift",
       "kind": "StringLiteral",
       "offset": 1831,
       "length": 25,
       "value": "\"gcp_thumbnail_file_name\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatClient\/SalesmateChatClient.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatClient\/SalesmateChatClient.swift",
       "kind": "StringLiteral",
       "offset": 157,
       "length": 27,
       "value": "\"isSalesmateVisitorSDKPush\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatClient\/SalesmateChatClient.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatClient\/SalesmateChatClient.swift",
       "kind": "Array",
       "offset": 436,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatClient\/SalesmateChatClient.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatClient\/SalesmateChatClient.swift",
       "kind": "Array",
       "offset": 708,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatClient\/SalesmateChatClient.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatClient\/SalesmateChatClient.swift",
       "kind": "Dictionary",
       "offset": 775,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatClient\/SalesmateChatClient.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatClient\/SalesmateChatClient.swift",
       "kind": "BooleanLiteral",
       "offset": 1497,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/Chat\/AskContactDetailCell.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/Chat\/AskContactDetailCell.swift",
       "kind": "StringLiteral",
       "offset": 232,
       "length": 22,
       "value": "\"AskContactDetailCell\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/Chat\/AskContactDetailCell.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/Chat\/AskContactDetailCell.swift",
       "kind": "StringLiteral",
       "offset": 528,
       "length": 8,
       "value": "\"EBECF0\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Interface\/SalesmateChat.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Interface\/SalesmateChat.swift",
       "kind": "IntegerLiteral",
       "offset": 279,
       "length": 7,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Interface\/SalesmateChat.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Interface\/SalesmateChat.swift",
       "kind": "IntegerLiteral",
       "offset": 296,
       "length": 10,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Interface\/SalesmateChat.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Interface\/SalesmateChat.swift",
       "kind": "IntegerLiteral",
       "offset": 279,
       "length": 7,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Interface\/SalesmateChat.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Interface\/SalesmateChat.swift",
       "kind": "IntegerLiteral",
       "offset": 296,
       "length": 10,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Interface\/SalesmateChat.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Interface\/SalesmateChat.swift",
       "kind": "StringLiteral",
       "offset": 633,
       "length": 13,
       "value": "\"SalesmateChatSDK.Configuration\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Interface\/SalesmateChat.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Interface\/SalesmateChat.swift",
       "kind": "BooleanLiteral",
-      "offset": 1264,
+      "offset": 1249,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Interface\/SalesmateChat.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Interface\/SalesmateChat.swift",
       "kind": "StringLiteral",
-      "offset": 1070,
+      "offset": 1055,
       "length": 13,
       "value": "\"SalesmateChatSDK.SalesmateChat\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Home\/HomeViewModel.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Home\/HomeViewModel.swift",
       "kind": "StringLiteral",
       "offset": 323,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Home\/HomeViewModel.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Home\/HomeViewModel.swift",
       "kind": "StringLiteral",
       "offset": 373,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Home\/HomeViewModel.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Home\/HomeViewModel.swift",
       "kind": "StringLiteral",
       "offset": 471,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Home\/HomeViewModel.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Home\/HomeViewModel.swift",
       "kind": "StringLiteral",
       "offset": 515,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Home\/HomeViewModel.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Home\/HomeViewModel.swift",
       "kind": "StringLiteral",
       "offset": 559,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/ChatEventRelay.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/ChatEventRelay.swift",
       "kind": "Array",
       "offset": 1252,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Block.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Block.swift",
       "kind": "StringLiteral",
       "offset": 996,
       "length": 4,
       "value": "\"id\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Block.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Block.swift",
       "kind": "StringLiteral",
       "offset": 1021,
       "length": 12,
       "value": "\"block_type\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Block.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Block.swift",
       "kind": "StringLiteral",
       "offset": 1057,
       "length": 10,
       "value": "\"is_draft\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Block.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Block.swift",
       "kind": "StringLiteral",
       "offset": 1093,
       "length": 12,
       "value": "\"ordered_no\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Block.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Block.swift",
       "kind": "StringLiteral",
       "offset": 1126,
       "length": 6,
       "value": "\"text\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Block.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Block.swift",
       "kind": "StringLiteral",
       "offset": 1153,
       "length": 20,
       "value": "\"fileAttachmentData\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Block.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Block.swift",
       "kind": "StringLiteral",
       "offset": 996,
       "length": 4,
       "value": "\"id\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Block.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Block.swift",
       "kind": "StringLiteral",
       "offset": 1021,
       "length": 12,
       "value": "\"block_type\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Block.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Block.swift",
       "kind": "StringLiteral",
       "offset": 1057,
       "length": 10,
       "value": "\"is_draft\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Block.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Block.swift",
       "kind": "StringLiteral",
       "offset": 1093,
       "length": 12,
       "value": "\"ordered_no\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Block.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Block.swift",
       "kind": "StringLiteral",
       "offset": 1126,
       "length": 6,
       "value": "\"text\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Block.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Block.swift",
       "kind": "StringLiteral",
       "offset": 1153,
       "length": 20,
       "value": "\"fileAttachmentData\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Util\/DataPersistency.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Util\/DataPersistency.swift",
       "kind": "StringLiteral",
       "offset": 584,
       "length": 20,
       "value": "\"com.salesmate.chat\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Util\/DataPersistency.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Util\/DataPersistency.swift",
       "kind": "StringLiteral",
       "offset": 636,
       "length": 31,
       "value": "\"pseudoName.com.salesmate.chat\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Util\/DataPersistency.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Util\/DataPersistency.swift",
       "kind": "StringLiteral",
       "offset": 704,
       "length": 39,
       "value": "\"socketAuthTokenKey.com.salesmate.chat\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Util\/DataPersistency.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Util\/DataPersistency.swift",
       "kind": "StringLiteral",
       "offset": 777,
       "length": 36,
       "value": "\"contactEmailKey.com.salesmate.chat\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Util\/DataPersistency.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Util\/DataPersistency.swift",
       "kind": "StringLiteral",
       "offset": 844,
       "length": 33,
       "value": "\"contactIdKey.com.salesmate.chat\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Util\/DataPersistency.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Util\/DataPersistency.swift",
       "kind": "StringLiteral",
       "offset": 911,
       "length": 36,
       "value": "\"userUniqueIdKey.com.salesmate.chat\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Util\/DataPersistency.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Util\/DataPersistency.swift",
       "kind": "StringLiteral",
       "offset": 979,
       "length": 34,
       "value": "\"verifiedIdKey.com.salesmate.chat\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIDataTypes.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIDataTypes.swift",
       "kind": "StringLiteral",
       "offset": 195,
       "length": 12,
       "value": "\"x-linkname\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIDataTypes.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIDataTypes.swift",
       "kind": "StringLiteral",
       "offset": 237,
       "length": 16,
       "value": "\"x-workspace-id\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIDataTypes.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIDataTypes.swift",
       "kind": "StringLiteral",
       "offset": 281,
       "length": 14,
       "value": "\"x-contact-id\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIDataTypes.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIDataTypes.swift",
       "kind": "StringLiteral",
       "offset": 322,
       "length": 13,
       "value": "\"x-unique-id\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIDataTypes.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIDataTypes.swift",
       "kind": "StringLiteral",
       "offset": 364,
       "length": 15,
       "value": "\"x-verified-id\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIDataTypes.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIDataTypes.swift",
       "kind": "StringLiteral",
       "offset": 409,
       "length": 14,
       "value": "\"Content-Type\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIDataTypes.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIDataTypes.swift",
       "kind": "StringLiteral",
       "offset": 481,
       "length": 11,
       "value": "\"tenant_id\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIDataTypes.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIDataTypes.swift",
       "kind": "StringLiteral",
       "offset": 519,
       "length": 11,
       "value": "\"device_id\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIDataTypes.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIDataTypes.swift",
       "kind": "StringLiteral",
       "offset": 558,
       "length": 12,
       "value": "\"visitor_id\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIDataTypes.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIDataTypes.swift",
       "kind": "StringLiteral",
       "offset": 598,
       "length": 12,
       "value": "\"session_id\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIDataTypes.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIDataTypes.swift",
       "kind": "StringLiteral",
       "offset": 636,
       "length": 10,
       "value": "\"sdk_name\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIDataTypes.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIDataTypes.swift",
       "kind": "StringLiteral",
       "offset": 669,
       "length": 6,
       "value": "\"uuid\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIDataTypes.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIDataTypes.swift",
       "kind": "StringLiteral",
       "offset": 700,
       "length": 9,
       "value": "\"app_key\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIDataTypes.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIDataTypes.swift",
       "kind": "StringLiteral",
       "offset": 732,
       "length": 6,
       "value": "\"hour\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIDataTypes.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIDataTypes.swift",
       "kind": "StringLiteral",
       "offset": 766,
       "length": 11,
       "value": "\"timestamp\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIDataTypes.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIDataTypes.swift",
       "kind": "StringLiteral",
       "offset": 807,
       "length": 14,
       "value": "\"user_details\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIDataTypes.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIDataTypes.swift",
       "kind": "StringLiteral",
       "offset": 875,
       "length": 8,
       "value": "\"Status\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIDataTypes.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIDataTypes.swift",
       "kind": "StringLiteral",
       "offset": 909,
       "length": 9,
       "value": "\"success\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIDataTypes.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIDataTypes.swift",
       "kind": "StringLiteral",
       "offset": 944,
       "length": 9,
       "value": "\"failure\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIDataTypes.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIDataTypes.swift",
       "kind": "StringLiteral",
       "offset": 977,
       "length": 7,
       "value": "\"Error\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIDataTypes.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIDataTypes.swift",
       "kind": "StringLiteral",
       "offset": 1007,
       "length": 6,
       "value": "\"name\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIDataTypes.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIDataTypes.swift",
       "kind": "StringLiteral",
       "offset": 1039,
       "length": 9,
       "value": "\"message\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIDataTypes.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIDataTypes.swift",
       "kind": "StringLiteral",
       "offset": 1071,
       "length": 6,
       "value": "\"Data\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIDataTypes.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIDataTypes.swift",
       "kind": "IntegerLiteral",
       "offset": 1146,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIDataTypes.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIDataTypes.swift",
       "kind": "IntegerLiteral",
       "offset": 1233,
       "length": 2,
       "value": "20"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/Chat\/AskRatingCell.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/Chat\/AskRatingCell.swift",
       "kind": "StringLiteral",
       "offset": 229,
       "length": 15,
       "value": "\"AskRatingCell\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/Chat\/AskRatingCell.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/Chat\/AskRatingCell.swift",
       "kind": "StringLiteral",
       "offset": 1155,
       "length": 8,
       "value": "\"EBECF0\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Home\/RecentConversationsViewModel.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Home\/RecentConversationsViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 333,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Home\/RecentConversationsViewModel.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Home\/RecentConversationsViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 380,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Home\/RecentConversationsViewModel.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Home\/RecentConversationsViewModel.swift",
       "kind": "StringLiteral",
       "offset": 433,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Home\/RecentConversationsViewModel.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Home\/RecentConversationsViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 483,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Home\/RecentConversationsViewModel.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Home\/RecentConversationsViewModel.swift",
       "kind": "Array",
       "offset": 563,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/UIKitExtensions.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/UIKitExtensions.swift",
       "kind": "StringLiteral",
-      "offset": 2311,
+      "offset": 2342,
       "length": 19,
       "value": "\"ic-start-new-chat\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/UIKitExtensions.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/UIKitExtensions.swift",
       "kind": "StringLiteral",
-      "offset": 2369,
+      "offset": 2400,
       "length": 15,
       "value": "\"ic-attachment\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/UIKitExtensions.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/UIKitExtensions.swift",
       "kind": "StringLiteral",
-      "offset": 2428,
+      "offset": 2459,
       "length": 21,
       "value": "\"ic-attachment-small\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/UIKitExtensions.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/UIKitExtensions.swift",
       "kind": "StringLiteral",
-      "offset": 2487,
+      "offset": 2518,
       "length": 22,
       "value": "\"typing-animation-dot\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Chat\/ChatVC.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Chat\/ChatVC.swift",
       "kind": "BooleanLiteral",
       "offset": 1318,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Chat\/ChatVC.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Chat\/ChatVC.swift",
       "kind": "BooleanLiteral",
       "offset": 1371,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Chat\/ChatVC.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Chat\/ChatVC.swift",
       "kind": "Array",
       "offset": 1473,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Chat\/ChatVC.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Chat\/ChatVC.swift",
       "kind": "BooleanLiteral",
       "offset": 18090,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Chat\/ChatVC.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Chat\/ChatVC.swift",
       "kind": "BooleanLiteral",
       "offset": 18496,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/CirculerProfileViewModels.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/CirculerProfileViewModels.swift",
       "kind": "StringLiteral",
       "offset": 1508,
       "length": 8,
       "value": "\"FFFFFF\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/CirculerProfileViewModels.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/CirculerProfileViewModels.swift",
       "kind": "IntegerLiteral",
       "offset": 1543,
       "length": 2,
       "value": "18"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/CirculerProfileViewModels.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/CirculerProfileViewModels.swift",
       "kind": "StringLiteral",
       "offset": 1865,
       "length": 8,
       "value": "\"FFFFFF\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/CirculerProfileViewModels.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/CirculerProfileViewModels.swift",
       "kind": "IntegerLiteral",
       "offset": 1945,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/CirculerProfileViewModels.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/CirculerProfileViewModels.swift",
       "kind": "BooleanLiteral",
       "offset": 1973,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/CirculerProfileViewModels.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/CirculerProfileViewModels.swift",
       "kind": "StringLiteral",
       "offset": 2549,
       "length": 8,
       "value": "\"EBECF0\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/CirculerProfileViewModels.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/CirculerProfileViewModels.swift",
       "kind": "IntegerLiteral",
       "offset": 2642,
       "length": 2,
       "value": "18"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/CirculerProfileViewModels.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/CirculerProfileViewModels.swift",
       "kind": "StringLiteral",
       "offset": 2677,
       "length": 8,
       "value": "\"505F79\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/CirculerProfileViewModels.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/CirculerProfileViewModels.swift",
       "kind": "IntegerLiteral",
       "offset": 2757,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/CirculerProfileViewModels.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/CirculerProfileViewModels.swift",
       "kind": "IntegerLiteral",
       "offset": 2962,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/CirculerProfileViewModels.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/CirculerProfileViewModels.swift",
       "kind": "StringLiteral",
       "offset": 3090,
       "length": 8,
       "value": "\"FFFFFF\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/CirculerProfileViewModels.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/CirculerProfileViewModels.swift",
       "kind": "IntegerLiteral",
       "offset": 3125,
       "length": 2,
       "value": "18"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/CirculerProfileViewModels.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/CirculerProfileViewModels.swift",
       "kind": "IntegerLiteral",
       "offset": 3381,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/CirculerProfileViewModels.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/CirculerProfileViewModels.swift",
       "kind": "StringLiteral",
       "offset": 3457,
       "length": 16,
       "value": "\"img-bot-avatar\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/CirculerProfileViewModels.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/CirculerProfileViewModels.swift",
       "kind": "StringLiteral",
       "offset": 3500,
       "length": 3,
       "value": "\"B\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/CirculerProfileViewModels.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/CirculerProfileViewModels.swift",
       "kind": "StringLiteral",
       "offset": 3536,
       "length": 8,
       "value": "\"FFFFFF\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/CirculerProfileViewModels.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/CirculerProfileViewModels.swift",
       "kind": "IntegerLiteral",
       "offset": 3571,
       "length": 2,
       "value": "14"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/HTTP\/Error.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/HTTP\/Error.swift",
       "kind": "StringLiteral",
       "offset": 203,
       "length": 21,
       "value": "\"AuthorizationFailed\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/HTTP\/Error.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/HTTP\/Error.swift",
       "kind": "StringLiteral",
       "offset": 203,
       "length": 21,
       "value": "\"AuthorizationFailed\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/HTTP\/Request.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/HTTP\/Request.swift",
       "kind": "StringLiteral",
       "offset": 151,
       "length": 5,
       "value": "\"GET\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/HTTP\/Request.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/HTTP\/Request.swift",
       "kind": "StringLiteral",
       "offset": 173,
       "length": 6,
       "value": "\"POST\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/HTTP\/Request.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/HTTP\/Request.swift",
       "kind": "StringLiteral",
       "offset": 195,
       "length": 5,
       "value": "\"PUT\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/HTTP\/Request.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/HTTP\/Request.swift",
       "kind": "StringLiteral",
       "offset": 219,
       "length": 8,
       "value": "\"DELETE\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/HTTP\/Request.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/HTTP\/Request.swift",
       "kind": "StringLiteral",
       "offset": 151,
       "length": 5,
       "value": "\"GET\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/HTTP\/Request.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/HTTP\/Request.swift",
       "kind": "StringLiteral",
       "offset": 173,
       "length": 6,
       "value": "\"POST\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/HTTP\/Request.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/HTTP\/Request.swift",
       "kind": "StringLiteral",
       "offset": 195,
       "length": 5,
       "value": "\"PUT\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/HTTP\/Request.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/HTTP\/Request.swift",
       "kind": "StringLiteral",
       "offset": 219,
       "length": 8,
       "value": "\"DELETE\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatClient\/ChatClient.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatClient\/ChatClient.swift",
       "kind": "BooleanLiteral",
       "offset": 135,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatClient\/ChatClient.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatClient\/ChatClient.swift",
       "kind": "BooleanLiteral",
       "offset": 3803,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
       "kind": "StringLiteral",
       "offset": 210,
       "length": 7,
       "value": "\"event\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
       "kind": "StringLiteral",
       "offset": 244,
       "length": 6,
       "value": "\"data\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
       "kind": "StringLiteral",
       "offset": 276,
       "length": 5,
       "value": "\"rid\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
       "kind": "StringLiteral",
       "offset": 307,
       "length": 5,
       "value": "\"cid\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
       "kind": "StringLiteral",
       "offset": 350,
       "length": 17,
       "value": "\"isAuthenticated\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
       "kind": "StringLiteral",
       "offset": 399,
       "length": 11,
       "value": "\"authToken\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
       "kind": "StringLiteral",
       "offset": 436,
       "length": 5,
       "value": "\"ids\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
       "kind": "StringLiteral",
       "offset": 478,
       "length": 16,
       "value": "\"conversationId\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
       "kind": "StringLiteral",
       "offset": 523,
       "length": 8,
       "value": "\"userId\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
       "kind": "StringLiteral",
       "offset": 565,
       "length": 13,
       "value": "\"visitorName\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
       "kind": "StringLiteral",
       "offset": 612,
       "length": 13,
       "value": "\"workspaceId\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
       "kind": "StringLiteral",
       "offset": 659,
       "length": 13,
       "value": "\"messageType\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
       "kind": "StringLiteral",
       "offset": 703,
       "length": 10,
       "value": "\"uniqueId\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
       "kind": "StringLiteral",
       "offset": 746,
       "length": 12,
       "value": "\"verifiedId\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
       "kind": "StringLiteral",
       "offset": 788,
       "length": 9,
       "value": "\"channel\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
       "kind": "StringLiteral",
       "offset": 824,
       "length": 6,
       "value": "\"type\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
       "kind": "StringLiteral",
       "offset": 860,
       "length": 9,
       "value": "\"message\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
       "kind": "StringLiteral",
       "offset": 936,
       "length": 12,
       "value": "\"#handshake\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
       "kind": "StringLiteral",
       "offset": 974,
       "length": 12,
       "value": "\"#subscribe\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
       "kind": "StringLiteral",
       "offset": 1010,
       "length": 10,
       "value": "\"#publish\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
       "kind": "StringLiteral",
       "offset": 1052,
       "length": 19,
       "value": "\"visitor-is-typing\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
       "kind": "StringLiteral",
       "offset": 936,
       "length": 12,
       "value": "\"#handshake\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
       "kind": "StringLiteral",
       "offset": 974,
       "length": 12,
       "value": "\"#subscribe\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
       "kind": "StringLiteral",
       "offset": 1010,
       "length": 10,
       "value": "\"#publish\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
       "kind": "StringLiteral",
       "offset": 1052,
       "length": 19,
       "value": "\"visitor-is-typing\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
       "kind": "StringLiteral",
       "offset": 1136,
       "length": 13,
       "value": "\"NEW_MESSAGE\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
       "kind": "StringLiteral",
       "offset": 1187,
       "length": 34,
       "value": "\"USER_AVAILABILITY_STATUS_UPDATED\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
       "kind": "StringLiteral",
       "offset": 1257,
       "length": 23,
       "value": "\"CONVERSATION_HAS_SEEN\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
       "kind": "StringLiteral",
       "offset": 1319,
       "length": 27,
       "value": "\"UPDATE_CONVERSATIONS_LIST\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
       "kind": "StringLiteral",
       "offset": 1377,
       "length": 17,
       "value": "\"MESSAGE_DELETED\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
       "kind": "StringLiteral",
       "offset": 1425,
       "length": 17,
       "value": "\"CONTACT_CREATED\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
       "kind": "StringLiteral",
       "offset": 1471,
       "length": 15,
       "value": "\"CONTACT_LOGIN\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
       "kind": "StringLiteral",
       "offset": 1136,
       "length": 13,
       "value": "\"NEW_MESSAGE\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
       "kind": "StringLiteral",
       "offset": 1187,
       "length": 34,
       "value": "\"USER_AVAILABILITY_STATUS_UPDATED\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
       "kind": "StringLiteral",
       "offset": 1257,
       "length": 23,
       "value": "\"CONVERSATION_HAS_SEEN\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
       "kind": "StringLiteral",
       "offset": 1319,
       "length": 27,
       "value": "\"UPDATE_CONVERSATIONS_LIST\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
       "kind": "StringLiteral",
       "offset": 1377,
       "length": 17,
       "value": "\"MESSAGE_DELETED\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
       "kind": "StringLiteral",
       "offset": 1425,
       "length": 17,
       "value": "\"CONTACT_CREATED\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatStream\/Payload.swift",
       "kind": "StringLiteral",
       "offset": 1471,
       "length": 15,
       "value": "\"CONTACT_LOGIN\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
       "kind": "StringLiteral",
       "offset": 186,
       "length": 13,
       "value": "\"email_asked\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
       "kind": "StringLiteral",
       "offset": 223,
       "length": 14,
       "value": "\"rating_asked\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
       "kind": "StringLiteral",
       "offset": 262,
       "length": 16,
       "value": "\"send_and_close\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
       "kind": "StringLiteral",
       "offset": 186,
       "length": 13,
       "value": "\"email_asked\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
       "kind": "StringLiteral",
       "offset": 223,
       "length": 14,
       "value": "\"rating_asked\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
       "kind": "StringLiteral",
       "offset": 262,
       "length": 16,
       "value": "\"send_and_close\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
       "kind": "StringLiteral",
       "offset": 384,
       "length": 12,
       "value": "\"message_id\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
       "kind": "StringLiteral",
       "offset": 417,
       "length": 14,
       "value": "\"message_type\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
       "kind": "StringLiteral",
       "offset": 456,
       "length": 8,
       "value": "\"blocks\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
       "kind": "StringLiteral",
       "offset": 486,
       "length": 8,
       "value": "\"is_bot\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
       "kind": "StringLiteral",
       "offset": 520,
       "length": 12,
       "value": "\"is_inbound\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
       "kind": "StringLiteral",
       "offset": 565,
       "length": 19,
       "value": "\"conversation_name\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
       "kind": "StringLiteral",
       "offset": 606,
       "length": 7,
       "value": "\"email\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
       "kind": "StringLiteral",
       "offset": 384,
       "length": 12,
       "value": "\"message_id\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
       "kind": "StringLiteral",
       "offset": 417,
       "length": 14,
       "value": "\"message_type\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
       "kind": "StringLiteral",
       "offset": 456,
       "length": 8,
       "value": "\"blocks\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
       "kind": "StringLiteral",
       "offset": 486,
       "length": 8,
       "value": "\"is_bot\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
       "kind": "StringLiteral",
       "offset": 520,
       "length": 12,
       "value": "\"is_inbound\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
       "kind": "StringLiteral",
       "offset": 565,
       "length": 19,
       "value": "\"conversation_name\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
       "kind": "StringLiteral",
       "offset": 606,
       "length": 7,
       "value": "\"email\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
       "kind": "StringLiteral",
       "offset": 885,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
       "kind": "BooleanLiteral",
       "offset": 1170,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
       "kind": "BooleanLiteral",
       "offset": 1195,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
       "kind": "Array",
       "offset": 1723,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
       "kind": "StringLiteral",
       "offset": 2051,
       "length": 4,
       "value": "\"id\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
       "kind": "StringLiteral",
       "offset": 2089,
       "length": 21,
       "value": "\"is_internal_message\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
       "kind": "StringLiteral",
       "offset": 2131,
       "length": 14,
       "value": "\"message_type\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
       "kind": "StringLiteral",
       "offset": 2173,
       "length": 14,
       "value": "\"created_date\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
       "kind": "StringLiteral",
       "offset": 2209,
       "length": 8,
       "value": "\"is_bot\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
       "kind": "StringLiteral",
       "offset": 2242,
       "length": 11,
       "value": "\"blockData\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
       "kind": "StringLiteral",
       "offset": 2276,
       "length": 9,
       "value": "\"user_id\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
       "kind": "StringLiteral",
       "offset": 2313,
       "length": 14,
       "value": "\"deleted_date\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
       "kind": "StringLiteral",
       "offset": 2355,
       "length": 14,
       "value": "\"contact_name\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
       "kind": "StringLiteral",
       "offset": 2398,
       "length": 15,
       "value": "\"contact_email\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
       "kind": "StringLiteral",
       "offset": 2051,
       "length": 4,
       "value": "\"id\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
       "kind": "StringLiteral",
       "offset": 2089,
       "length": 21,
       "value": "\"is_internal_message\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
       "kind": "StringLiteral",
       "offset": 2131,
       "length": 14,
       "value": "\"message_type\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
       "kind": "StringLiteral",
       "offset": 2173,
       "length": 14,
       "value": "\"created_date\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
       "kind": "StringLiteral",
       "offset": 2209,
       "length": 8,
       "value": "\"is_bot\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
       "kind": "StringLiteral",
       "offset": 2242,
       "length": 11,
       "value": "\"blockData\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
       "kind": "StringLiteral",
       "offset": 2276,
       "length": 9,
       "value": "\"user_id\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
       "kind": "StringLiteral",
       "offset": 2313,
       "length": 14,
       "value": "\"deleted_date\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
       "kind": "StringLiteral",
       "offset": 2355,
       "length": 14,
       "value": "\"contact_name\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Models\/Message.swift",
       "kind": "StringLiteral",
       "offset": 2398,
       "length": 15,
       "value": "\"contact_email\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Util\/MIME.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Util\/MIME.swift",
       "kind": "StringLiteral",
       "offset": 175,
       "length": 26,
       "value": "\"application\/octet-stream\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Home\/NewVisitorViewModel.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Home\/NewVisitorViewModel.swift",
       "kind": "StringLiteral",
       "offset": 267,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Home\/NewVisitorViewModel.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Home\/NewVisitorViewModel.swift",
       "kind": "Array",
       "offset": 347,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Home\/NewVisitorViewModel.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Home\/NewVisitorViewModel.swift",
       "kind": "IntegerLiteral",
       "offset": 407,
       "length": 3,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Home\/NewVisitorViewModel.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Home\/NewVisitorViewModel.swift",
       "kind": "IntegerLiteral",
       "offset": 425,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Home\/NewVisitorViewModel.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Home\/NewVisitorViewModel.swift",
       "kind": "IntegerLiteral",
       "offset": 449,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Home\/NewVisitorViewModel.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Home\/NewVisitorViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 499,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Home\/NewVisitorViewModel.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Home\/NewVisitorViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 546,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Home\/NewVisitorViewModel.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/ViewController\/Home\/NewVisitorViewModel.swift",
       "kind": "StringLiteral",
       "offset": 599,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/Chat\/MessageCell.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/Chat\/MessageCell.swift",
       "kind": "StringLiteral",
       "offset": 4861,
       "length": 17,
       "value": "\"SendMessageCell\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/Chat\/MessageCell.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/Chat\/MessageCell.swift",
       "kind": "StringLiteral",
       "offset": 4920,
       "length": 17,
       "value": "\"SendMessageCell\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/Chat\/MessageCell.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/Chat\/MessageCell.swift",
       "kind": "StringLiteral",
       "offset": 6445,
       "length": 21,
       "value": "\"ReceivedMessageCell\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/Chat\/MessageCell.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/Chat\/MessageCell.swift",
       "kind": "StringLiteral",
       "offset": 6508,
       "length": 21,
       "value": "\"ReceivedMessageCell\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
       "kind": "IntegerLiteral",
       "offset": 169,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
       "kind": "IntegerLiteral",
       "offset": 180,
       "length": 10,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
       "kind": "IntegerLiteral",
       "offset": 200,
       "length": 8,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
       "kind": "IntegerLiteral",
       "offset": 169,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
       "kind": "IntegerLiteral",
       "offset": 180,
       "length": 10,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
       "kind": "IntegerLiteral",
       "offset": 200,
       "length": 8,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
       "kind": "IntegerLiteral",
       "offset": 169,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
       "kind": "IntegerLiteral",
       "offset": 180,
       "length": 10,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
       "kind": "IntegerLiteral",
       "offset": 200,
       "length": 8,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
       "kind": "FloatLiteral",
       "offset": 331,
       "length": 5,
       "value": "812.0"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
       "kind": "BooleanLiteral",
       "offset": 339,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
       "kind": "BooleanLiteral",
       "offset": 345,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
       "kind": "BooleanLiteral",
       "offset": 391,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
       "kind": "IntegerLiteral",
       "offset": 398,
       "length": 2,
       "value": "44"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
       "kind": "IntegerLiteral",
       "offset": 403,
       "length": 2,
       "value": "20"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
       "kind": "BooleanLiteral",
       "offset": 447,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
       "kind": "IntegerLiteral",
       "offset": 454,
       "length": 2,
       "value": "34"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
       "kind": "IntegerLiteral",
       "offset": 459,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
       "kind": "IntegerLiteral",
       "offset": 497,
       "length": 2,
       "value": "88"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
       "kind": "IntegerLiteral",
       "offset": 502,
       "length": 2,
       "value": "64"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
       "kind": "BooleanLiteral",
       "offset": 583,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
       "kind": "IntegerLiteral",
       "offset": 1150,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
       "kind": "BooleanLiteral",
       "offset": 1193,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
       "kind": "BooleanLiteral",
       "offset": 1243,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
       "kind": "BooleanLiteral",
       "offset": 1291,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1352,
+      "offset": 1348,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1404,
+      "offset": 1400,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
-      "kind": "StringLiteral",
-      "offset": 1996,
-      "length": 10,
-      "value": "\"leftMove\""
-    },
-    {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
-      "kind": "StringLiteral",
-      "offset": 2043,
-      "length": 11,
-      "value": "\"rightMove\""
-    },
-    {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
       "kind": "FloatLiteral",
-      "offset": 2106,
+      "offset": 1733,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/OtherLibs\/SalesmateFloatingView\/SalesmateChatDragView.swift",
       "kind": "FloatLiteral",
-      "offset": 2277,
+      "offset": 1904,
       "length": 3,
       "value": "0.2"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/TypingAnimationView.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/TypingAnimationView.swift",
       "kind": "StringLiteral",
       "offset": 669,
       "length": 8,
       "value": "\"606D8A\""
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/TypingAnimationView.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/TypingAnimationView.swift",
       "kind": "BooleanLiteral",
       "offset": 1252,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/rapidadmin\/Desktop\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/TypingAnimationView.swift",
+      "filePath": "\/Users\/rapidadmin\/Documents\/Vishal\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/UI\/View\/TypingAnimationView.swift",
       "kind": "BooleanLiteral",
       "offset": 1330,
       "length": 5,
