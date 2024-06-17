@@ -20,7 +20,7 @@ let package = Package(
     ],
     targets: [
         .binaryTarget(name: "SalesmateChatSDK",
-                      url: "https://github.com/salesmate/salesmate-chat-ios/releases/download/1.0.9/SalesmateChatSDK.xcframework.zip",
-                      checksum: "39e491f4da71b9e976aa3a79fbe7fbba5dbda3f01f0c9ae4ea2d1c2dae1b9975"),
+                      url: "https://github.com/salesmate/salesmate-chat-ios/releases/download/1.1.0/SalesmateChatSDK.xcframework.zip",
+                      checksum: "3a781cc084e570217108c4fb589ee4a0f19384c659fb091f20dde591e92249e5"),
     ]
 )
