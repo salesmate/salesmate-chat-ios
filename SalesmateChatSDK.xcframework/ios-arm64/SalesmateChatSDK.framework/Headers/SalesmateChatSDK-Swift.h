@@ -302,9 +302,11 @@ SWIFT_CLASS("_TtC16SalesmateChatSDK13SalesmateChat")
 + (void)presentMessengerFrom:(UIViewController * _Nonnull)viewController;
 + (void)logEventWithEventName:(NSString * _Nonnull)eventName withData:(NSDictionary * _Nullable)data;
 + (void)setVerifiedID:(NSString * _Nonnull)ID;
-+ (void)loginWithUserId:(NSString * _Nullable)userId email:(NSString * _Nullable)email firstName:(NSString * _Nullable)firstName lastName:(NSString * _Nullable)lastName completion:(void (^ _Nonnull)(NSString * _Nullable, NSError * _Nullable))completion;
++ (void)setUserHash:(NSString * _Nonnull)userHash;
++ (void)loginWithUserId:(NSString * _Nullable)userId email:(NSString * _Nullable)email firstName:(NSString * _Nullable)firstName lastName:(NSString * _Nullable)lastName userHash:(NSString * _Nullable)userHash completion:(void (^ _Nonnull)(NSString * _Nullable, NSError * _Nullable))completion;
 + (void)logout;
 + (NSString * _Nonnull)getVisitorId SWIFT_WARN_UNUSED_RESULT;
++ (NSString * _Nonnull)getUserHash SWIFT_WARN_UNUSED_RESULT;
 + (void)updateWithUserId:(NSString * _Nullable)userId email:(NSString * _Nullable)email firstName:(NSString * _Nullable)firstName lastName:(NSString * _Nullable)lastName completion:(void (^ _Nonnull)(NSString * _Nullable, NSError * _Nullable))completion;
 + (void)sendDeviceTokenWith:(NSString * _Nonnull)deviceToken;
 + (BOOL)isSalesmateChatSDKPushNotificationWithUserInfo:(NSDictionary * _Nonnull)userInfo SWIFT_WARN_UNUSED_RESULT;

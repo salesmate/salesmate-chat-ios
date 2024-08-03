@@ -9,3 +9,4 @@ xcuserdata/
 
 #OSX
 .DS_Store
+.build/

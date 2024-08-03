@@ -76,9 +76,11 @@ import _StringProcessing
   @objc public static func presentMessenger(from viewController: UIKit.UIViewController)
   @objc public static func logEventWith(eventName: Swift.String, withData data: [Swift.AnyHashable : Any]? = nil)
   @objc public static func setVerifiedID(_ ID: Swift.String)
-  @objc public static func loginWith(userId: Swift.String?, email: Swift.String?, firstName: Swift.String?, lastName: Swift.String?, completion: @escaping (Swift.String?, Swift.Error?) -> Swift.Void)
+  @objc public static func setUserHash(_ userHash: Swift.String)
+  @objc public static func loginWith(userId: Swift.String?, email: Swift.String?, firstName: Swift.String?, lastName: Swift.String?, userHash: Swift.String? = nil, completion: @escaping (Swift.String?, Swift.Error?) -> Swift.Void)
   @objc public static func logout()
   @objc public static func getVisitorId() -> Swift.String
+  @objc public static func getUserHash() -> Swift.String
   @objc public static func update(userId: Swift.String?, email: Swift.String?, firstName: Swift.String?, lastName: Swift.String?, completion: @escaping (Swift.String?, Swift.Error?) -> Swift.Void)
   @objc public static func sendDeviceToken(with deviceToken: Swift.String)
   @objc public static func isSalesmateChatSDKPushNotification(userInfo: [Swift.AnyHashable : Any]) -> Swift.Bool
