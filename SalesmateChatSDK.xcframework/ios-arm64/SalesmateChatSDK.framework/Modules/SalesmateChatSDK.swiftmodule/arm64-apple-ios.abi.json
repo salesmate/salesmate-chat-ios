@@ -2003,7 +2003,7 @@
           {
             "kind": "Constructor",
             "name": "init",
-            "printedName": "init(workspaceID:appKey:tenantID:)",
+            "printedName": "init(workspaceID:appKey:tenantID:environment:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -2028,13 +2028,20 @@
                 "name": "String",
                 "printedName": "Swift.String",
                 "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Environment",
+                "printedName": "SalesmateChatSDK.Environment",
+                "hasDefaultArg": true,
+                "usr": "c:@M@SalesmateChatSDK@E@Environment"
               }
             ],
             "declKind": "Constructor",
-            "usr": "c:@M@SalesmateChatSDK@objc(cs)Configuration(im)initWithWorkspaceID:appKey:tenantID:",
-            "mangledName": "$s16SalesmateChatSDK13ConfigurationC11workspaceID6appKey06tenantF0ACSS_S2Stcfc",
+            "usr": "c:@M@SalesmateChatSDK@objc(cs)Configuration(im)initWithWorkspaceID:appKey:tenantID:environment:",
+            "mangledName": "$s16SalesmateChatSDK13ConfigurationC11workspaceID6appKey06tenantF011environmentACSS_S2SAA11EnvironmentOtcfc",
             "moduleName": "SalesmateChatSDK",
-            "objc_name": "initWithWorkspaceID:appKey:tenantID:",
+            "objc_name": "initWithWorkspaceID:appKey:tenantID:environment:",
             "declAttributes": [
               "AccessControl",
               "ObjC"
@@ -4140,7 +4147,7 @@
       "kind": "StringLiteral",
       "offset": 143,
       "length": 7,
-      "value": "\"1.1.3\""
+      "value": "\"1.1.4\""
     },
     {
       "filePath": "\/Users\/rapidadmin\/Documents\/XCodeProjects\/Salesmate-Chat\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/ChatAPIClient\/APIRequests.swift",
@@ -5454,14 +5461,14 @@
     {
       "filePath": "\/Users\/rapidadmin\/Documents\/XCodeProjects\/Salesmate-Chat\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Interface\/SalesmateChat.swift",
       "kind": "BooleanLiteral",
-      "offset": 1237,
+      "offset": 1266,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/rapidadmin\/Documents\/XCodeProjects\/Salesmate-Chat\/salesmate-chat-ios-sdk\/SalesmateChat-iOS-SDK\/SalesmateChatSDK\/SalesmateChatSDK\/Interface\/SalesmateChat.swift",
       "kind": "StringLiteral",
-      "offset": 1043,
+      "offset": 1072,
       "length": 13,
       "value": "\"SalesmateChatSDK.SalesmateChat\""
     },

@@ -256,10 +256,11 @@ using UInt = size_t;
 #if defined(__OBJC__)
 
 @class NSString;
+enum Environment : NSInteger;
 
 SWIFT_CLASS("_TtC16SalesmateChatSDK13Configuration")
 @interface Configuration : NSObject
-- (nonnull instancetype)initWithWorkspaceID:(NSString * _Nonnull)workspaceID appKey:(NSString * _Nonnull)appKey tenantID:(NSString * _Nonnull)tenantID OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)initWithWorkspaceID:(NSString * _Nonnull)workspaceID appKey:(NSString * _Nonnull)appKey tenantID:(NSString * _Nonnull)tenantID environment:(enum Environment)environment OBJC_DESIGNATED_INITIALIZER;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
@@ -593,10 +594,11 @@ using UInt = size_t;
 #if defined(__OBJC__)
 
 @class NSString;
+enum Environment : NSInteger;
 
 SWIFT_CLASS("_TtC16SalesmateChatSDK13Configuration")
 @interface Configuration : NSObject
-- (nonnull instancetype)initWithWorkspaceID:(NSString * _Nonnull)workspaceID appKey:(NSString * _Nonnull)appKey tenantID:(NSString * _Nonnull)tenantID OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)initWithWorkspaceID:(NSString * _Nonnull)workspaceID appKey:(NSString * _Nonnull)appKey tenantID:(NSString * _Nonnull)tenantID environment:(enum Environment)environment OBJC_DESIGNATED_INITIALIZER;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
